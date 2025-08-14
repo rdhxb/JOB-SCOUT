@@ -70,13 +70,44 @@ def process_answers(answers):
 
     publish = answers.get('published_within')
     if publish in PUBLISHED_PATH:
-        path += f'/{PUBLISHED_PATH[publish]}'
+        path += f'{PUBLISHED_PATH[publish]}'
     
     remot_type = answers.get('remote_type')
     if remot_type:
         remot_type_key = remot_type.lower()
         if remot_type_key in WORK_MODE_PATH:
             path += WORK_MODE_PATH[remot_type_key]
+    
+    distance = answers.get('distance_km')
+    if distance:
+        path += f'?rd={distance}'
+
+    sallary = answers.get('show_salary_only')
+    if sallary:
+        if sallary == 'Tak':
+            path += f'&sal=1'
+        else:
+            pass
+
+# mmoze lower() bedzie potrezebnt
+    contract_type = answers.get('contract_type')
+    if contract_type:
+        path += f'&tc={CONTRACT_TC[contract_type]}'
+
+    workload = answers.get('workload')
+    if workload:
+        path += f'&ws={WORKLOAD_WS[workload]}'
+
+    spec = answers.get("specialization")
+    if spec:
+        if spec in SPEC_OVERRIDES:
+            path += f'&its={SPEC_OVERRIDES[spec]}'
+        else:
+            path += f'&its={spec.lower()}'
+
+
+
+    
 
         
     print(f'Full path: {BASE_IT}{path}')
