@@ -51,7 +51,7 @@ def ask():
         choices = job_type
     ).execute()
 
-    print(jt)
+    # print(jt)
 
 # Do zmiany bo po chuju elseif
     if jt == 'IT':

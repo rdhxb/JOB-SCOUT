@@ -1164,3 +1164,1648 @@ Technologies we use:
 ----------------------------------------
 
 
+URL: https://www.pracuj.pl/praca/fullstack-developer-vibe-coder-ai-%2b-automatyzacje-warszawa-syta-114z,oferta,1004266129?s=11de5272&searchId=MTc1NTI4MTgzNzYwMi4yNTU=
+Job Name 
+Fullstack Developer & Vibe Coder - AI + Automatyzacje
+Company name 
+Odylion O firmie
+Salary 
+10 000 – 20 000 zł
+netto (+ VAT) / mies. | kontrakt B2B
+About the project:
+O projekcie
+Nie dołączasz jako trybik do korporacyjnego zespołu.
+Dołączasz jako kluczowa osoba, która wspólnie z zarządem kształtuje nowoczesną firmę.
+Masz realny wpływ na wybór projektów, architekturę, dobór narzędzi i kierunek rozwoju.
+Sam decydujesz, które działania przyniosą największe efekty.
+Brzmi jak coś dla Ciebie? Wskocz na pokład i pomóż nam zbudować technologiczną maszynę, której nie oprze się żaden klient.
+
+Your responsibilities:
+Twój zakres obowiązków
+Budowanie automatyzacji i usprawnień dla sprzedaży, logistyki, marketingu, finansów – natywnie lub z pomocą n8n, Zapier, Make
+Tworzenie backend'u, frontend'u, stawianie baz danych, pisanie testów, DevOps
+Współtworzenie software’owego stacku firmy – od koncepcji po wdrożenie
+Budowa i rozwój wewnętrznych systemów (intranet, CRM, ERP)
+Tworzenie rozwiązań dla klientów (strona www, panele B2B, zamówienia, formularze, chatboty)
+
+Our requirements:
+Nasze wymagania
+Min. 3 lata doświadczenia jako Software Developer
+Sprawne programowanie w: React, TypeScript, Next.js, Python, FastAPI
+Znajomość baz danych i BaaS: PostgreSQL / MongoDB / Supabase / Firebase
+Umiejętność korzystania z chmury (GCP / AWS / Azure)
+Korzystanie z LLM-ów na co dzień (np. ChatGPT, Claude, Gemini) i znajomość różnic między modelami
+Znajomość narzędzi automatyzacji (n8n, Make, Zapier) i ekosystemu Microsoft 365 (Excel, SharePoint)
+Orientacja w nowoczesnych środowiskach do kolaboracji z AI: Claude Code CLI, Cursor, Lovable, v0, Computer Using Agents (CUAs), Agent SDKs
+Biegła znajomość języka polskiego i angielskiego
+
+Technologies we use:
+Technologie, których używamy
+Wymagane
+React.js
+TypeScript
+Next.js
+Python
+FastAPI
+PostgreSQL
+MongoDB
+Supabase
+Firebase
+GCP
+AWS
+Microsoft Azure
+Microsoft Excel
+Cursor
+HTML
+CSS
+SQL
+Git
+Claude Code
+Mile widziane
+Lovable
+v0
+Operator
+Agent SDKs
+Windsurf
+n8n
+Make
+Zapier
+SharePoint
+Figma
+Zod
+Pydantic
+System operacyjny
+----------------------------------------
+
+
+URL: https://www.pracuj.pl/praca/fullstack-developer-vibe-coder-ai-%2b-automatyzacje-warszawa-syta-114z,oferta,1004266129?s=11de5272&searchId=MTc1NTI4MjA0MjA2Ni40MTc3
+Job Name 
+Fullstack Developer & Vibe Coder - AI + Automatyzacje
+Company name 
+OdylionO firmie
+Salary 
+10 000 – 20 000 zł
+netto (+ VAT) / mies. | kontrakt B2B
+About the project:
+O projekcie
+Nie dołączasz jako trybik do korporacyjnego zespołu.
+Dołączasz jako kluczowa osoba, która wspólnie z zarządem kształtuje nowoczesną firmę.
+Masz realny wpływ na wybór projektów, architekturę, dobór narzędzi i kierunek rozwoju.
+Sam decydujesz, które działania przyniosą największe efekty.
+Brzmi jak coś dla Ciebie? Wskocz na pokład i pomóż nam zbudować technologiczną maszynę, której nie oprze się żaden klient.
+
+Your responsibilities:
+Twój zakres obowiązków
+Budowanie automatyzacji i usprawnień dla sprzedaży, logistyki, marketingu, finansów – natywnie lub z pomocą n8n, Zapier, Make
+Tworzenie backend'u, frontend'u, stawianie baz danych, pisanie testów, DevOps
+Współtworzenie software’owego stacku firmy – od koncepcji po wdrożenie
+Budowa i rozwój wewnętrznych systemów (intranet, CRM, ERP)
+Tworzenie rozwiązań dla klientów (strona www, panele B2B, zamówienia, formularze, chatboty)
+
+Our requirements:
+Nasze wymagania
+Min. 3 lata doświadczenia jako Software Developer
+Sprawne programowanie w: React, TypeScript, Next.js, Python, FastAPI
+Znajomość baz danych i BaaS: PostgreSQL / MongoDB / Supabase / Firebase
+Umiejętność korzystania z chmury (GCP / AWS / Azure)
+Korzystanie z LLM-ów na co dzień (np. ChatGPT, Claude, Gemini) i znajomość różnic między modelami
+Znajomość narzędzi automatyzacji (n8n, Make, Zapier) i ekosystemu Microsoft 365 (Excel, SharePoint)
+Orientacja w nowoczesnych środowiskach do kolaboracji z AI: Claude Code CLI, Cursor, Lovable, v0, Computer Using Agents (CUAs), Agent SDKs
+Biegła znajomość języka polskiego i angielskiego
+
+Technologies we use:
+Technologie, których używamy
+Wymagane
+React.js
+TypeScript
+Next.js
+Python
+FastAPI
+PostgreSQL
+MongoDB
+Supabase
+Firebase
+GCP
+AWS
+Microsoft Azure
+Microsoft Excel
+Cursor
+HTML
+CSS
+SQL
+Git
+Claude Code
+Mile widziane
+Lovable
+v0
+Operator
+Agent SDKs
+Windsurf
+n8n
+Make
+Zapier
+SharePoint
+Figma
+Zod
+Pydantic
+System operacyjny
+----------------------------------------
+
+
+URL: https://www.pracuj.pl/praca/fullstack-developer-vibe-coder-ai-%2b-automatyzacje-warszawa-syta-114z,oferta,1004266129?s=11de5272&searchId=MTc1NTI4MjEyMjE0OS4z
+Job Name 
+Fullstack Developer & Vibe Coder - AI + Automatyzacje
+Company name 
+OdylionO firmie
+Salary 
+10 000 – 20 000 zł
+netto (+ VAT) / mies. | kontrakt B2B
+About the project:
+O projekcie
+Nie dołączasz jako trybik do korporacyjnego zespołu.
+Dołączasz jako kluczowa osoba, która wspólnie z zarządem kształtuje nowoczesną firmę.
+Masz realny wpływ na wybór projektów, architekturę, dobór narzędzi i kierunek rozwoju.
+Sam decydujesz, które działania przyniosą największe efekty.
+Brzmi jak coś dla Ciebie? Wskocz na pokład i pomóż nam zbudować technologiczną maszynę, której nie oprze się żaden klient.
+
+Your responsibilities:
+Twój zakres obowiązków
+Budowanie automatyzacji i usprawnień dla sprzedaży, logistyki, marketingu, finansów – natywnie lub z pomocą n8n, Zapier, Make
+Tworzenie backend'u, frontend'u, stawianie baz danych, pisanie testów, DevOps
+Współtworzenie software’owego stacku firmy – od koncepcji po wdrożenie
+Budowa i rozwój wewnętrznych systemów (intranet, CRM, ERP)
+Tworzenie rozwiązań dla klientów (strona www, panele B2B, zamówienia, formularze, chatboty)
+
+Our requirements:
+Nasze wymagania
+Min. 3 lata doświadczenia jako Software Developer
+Sprawne programowanie w: React, TypeScript, Next.js, Python, FastAPI
+Znajomość baz danych i BaaS: PostgreSQL / MongoDB / Supabase / Firebase
+Umiejętność korzystania z chmury (GCP / AWS / Azure)
+Korzystanie z LLM-ów na co dzień (np. ChatGPT, Claude, Gemini) i znajomość różnic między modelami
+Znajomość narzędzi automatyzacji (n8n, Make, Zapier) i ekosystemu Microsoft 365 (Excel, SharePoint)
+Orientacja w nowoczesnych środowiskach do kolaboracji z AI: Claude Code CLI, Cursor, Lovable, v0, Computer Using Agents (CUAs), Agent SDKs
+Biegła znajomość języka polskiego i angielskiego
+
+Technologies we use:
+Technologie, których używamy
+Wymagane
+React.js
+TypeScript
+Next.js
+Python
+FastAPI
+PostgreSQL
+MongoDB
+Supabase
+Firebase
+GCP
+AWS
+Microsoft Azure
+Microsoft Excel
+Cursor
+HTML
+CSS
+SQL
+Git
+Claude Code
+Mile widziane
+Lovable
+v0
+Operator
+Agent SDKs
+Windsurf
+n8n
+Make
+Zapier
+SharePoint
+Figma
+Zod
+Pydantic
+System operacyjny
+----------------------------------------
+
+
+URL: https://www.pracuj.pl/praca/fullstack-developer-vibe-coder-ai-%2b-automatyzacje-warszawa-syta-114z,oferta,1004266129?s=11de5272&searchId=MTc1NTI4MjQ2NTMzOS4yMzI0
+Job Name 
+Fullstack Developer & Vibe Coder - AI + Automatyzacje
+Company name 
+OdylionO firmie
+Salary 
+10 000 – 20 000 zł
+netto (+ VAT) / mies. | kontrakt B2B
+About the project:
+O projekcie
+Nie dołączasz jako trybik do korporacyjnego zespołu.
+Dołączasz jako kluczowa osoba, która wspólnie z zarządem kształtuje nowoczesną firmę.
+Masz realny wpływ na wybór projektów, architekturę, dobór narzędzi i kierunek rozwoju.
+Sam decydujesz, które działania przyniosą największe efekty.
+Brzmi jak coś dla Ciebie? Wskocz na pokład i pomóż nam zbudować technologiczną maszynę, której nie oprze się żaden klient.
+
+Your responsibilities:
+Twój zakres obowiązków
+Budowanie automatyzacji i usprawnień dla sprzedaży, logistyki, marketingu, finansów – natywnie lub z pomocą n8n, Zapier, Make
+Tworzenie backend'u, frontend'u, stawianie baz danych, pisanie testów, DevOps
+Współtworzenie software’owego stacku firmy – od koncepcji po wdrożenie
+Budowa i rozwój wewnętrznych systemów (intranet, CRM, ERP)
+Tworzenie rozwiązań dla klientów (strona www, panele B2B, zamówienia, formularze, chatboty)
+
+Our requirements:
+Nasze wymagania
+Min. 3 lata doświadczenia jako Software Developer
+Sprawne programowanie w: React, TypeScript, Next.js, Python, FastAPI
+Znajomość baz danych i BaaS: PostgreSQL / MongoDB / Supabase / Firebase
+Umiejętność korzystania z chmury (GCP / AWS / Azure)
+Korzystanie z LLM-ów na co dzień (np. ChatGPT, Claude, Gemini) i znajomość różnic między modelami
+Znajomość narzędzi automatyzacji (n8n, Make, Zapier) i ekosystemu Microsoft 365 (Excel, SharePoint)
+Orientacja w nowoczesnych środowiskach do kolaboracji z AI: Claude Code CLI, Cursor, Lovable, v0, Computer Using Agents (CUAs), Agent SDKs
+Biegła znajomość języka polskiego i angielskiego
+
+Technologies we use:
+Technologie, których używamy
+Wymagane
+React.js
+TypeScript
+Next.js
+Python
+FastAPI
+PostgreSQL
+MongoDB
+Supabase
+Firebase
+GCP
+AWS
+Microsoft Azure
+Microsoft Excel
+Cursor
+HTML
+CSS
+SQL
+Git
+Claude Code
+Mile widziane
+Lovable
+v0
+Operator
+Agent SDKs
+Windsurf
+n8n
+Make
+Zapier
+SharePoint
+Figma
+Zod
+Pydantic
+System operacyjny
+----------------------------------------
+
+
+URL: https://www.pracuj.pl/praca/fullstack-developer-vibe-coder-ai-%2b-automatyzacje-warszawa-syta-114z,oferta,1004266129?s=11de5272&searchId=MTc1NTI4MjU1NzY5Mi40MTA2
+Job Name 
+Fullstack Developer & Vibe Coder - AI + Automatyzacje
+Company name 
+OdylionO firmie
+Salary 
+10 000 – 20 000 zł
+netto (+ VAT) / mies. | kontrakt B2B
+About the project:
+O projekcie
+Nie dołączasz jako trybik do korporacyjnego zespołu.
+Dołączasz jako kluczowa osoba, która wspólnie z zarządem kształtuje nowoczesną firmę.
+Masz realny wpływ na wybór projektów, architekturę, dobór narzędzi i kierunek rozwoju.
+Sam decydujesz, które działania przyniosą największe efekty.
+Brzmi jak coś dla Ciebie? Wskocz na pokład i pomóż nam zbudować technologiczną maszynę, której nie oprze się żaden klient.
+
+Your responsibilities:
+Twój zakres obowiązków
+Budowanie automatyzacji i usprawnień dla sprzedaży, logistyki, marketingu, finansów – natywnie lub z pomocą n8n, Zapier, Make
+Tworzenie backend'u, frontend'u, stawianie baz danych, pisanie testów, DevOps
+Współtworzenie software’owego stacku firmy – od koncepcji po wdrożenie
+Budowa i rozwój wewnętrznych systemów (intranet, CRM, ERP)
+Tworzenie rozwiązań dla klientów (strona www, panele B2B, zamówienia, formularze, chatboty)
+
+Our requirements:
+Nasze wymagania
+Min. 3 lata doświadczenia jako Software Developer
+Sprawne programowanie w: React, TypeScript, Next.js, Python, FastAPI
+Znajomość baz danych i BaaS: PostgreSQL / MongoDB / Supabase / Firebase
+Umiejętność korzystania z chmury (GCP / AWS / Azure)
+Korzystanie z LLM-ów na co dzień (np. ChatGPT, Claude, Gemini) i znajomość różnic między modelami
+Znajomość narzędzi automatyzacji (n8n, Make, Zapier) i ekosystemu Microsoft 365 (Excel, SharePoint)
+Orientacja w nowoczesnych środowiskach do kolaboracji z AI: Claude Code CLI, Cursor, Lovable, v0, Computer Using Agents (CUAs), Agent SDKs
+Biegła znajomość języka polskiego i angielskiego
+
+Technologies we use:
+Technologie, których używamy
+Wymagane
+React.js
+TypeScript
+Next.js
+Python
+FastAPI
+PostgreSQL
+MongoDB
+Supabase
+Firebase
+GCP
+AWS
+Microsoft Azure
+Microsoft Excel
+Cursor
+HTML
+CSS
+SQL
+Git
+Claude Code
+Mile widziane
+Lovable
+v0
+Operator
+Agent SDKs
+Windsurf
+n8n
+Make
+Zapier
+SharePoint
+Figma
+Zod
+Pydantic
+System operacyjny
+----------------------------------------
+
+
+URL: https://www.pracuj.pl/praca/fullstack-developer-vibe-coder-ai-%2b-automatyzacje-warszawa-syta-114z,oferta,1004266129?s=11de5272&searchId=MTc1NTI4MjcxNjE4NC4zMTg2
+Job Name 
+Fullstack Developer & Vibe Coder - AI + Automatyzacje
+Company name 
+(not found)
+Salary 
+10 000 – 20 000 zł
+netto (+ VAT) / mies. | kontrakt B2B
+About the project:
+O projekcie
+Nie dołączasz jako trybik do korporacyjnego zespołu.
+Dołączasz jako kluczowa osoba, która wspólnie z zarządem kształtuje nowoczesną firmę.
+Masz realny wpływ na wybór projektów, architekturę, dobór narzędzi i kierunek rozwoju.
+Sam decydujesz, które działania przyniosą największe efekty.
+Brzmi jak coś dla Ciebie? Wskocz na pokład i pomóż nam zbudować technologiczną maszynę, której nie oprze się żaden klient.
+
+Your responsibilities:
+Twój zakres obowiązków
+Budowanie automatyzacji i usprawnień dla sprzedaży, logistyki, marketingu, finansów – natywnie lub z pomocą n8n, Zapier, Make
+Tworzenie backend'u, frontend'u, stawianie baz danych, pisanie testów, DevOps
+Współtworzenie software’owego stacku firmy – od koncepcji po wdrożenie
+Budowa i rozwój wewnętrznych systemów (intranet, CRM, ERP)
+Tworzenie rozwiązań dla klientów (strona www, panele B2B, zamówienia, formularze, chatboty)
+
+Our requirements:
+Nasze wymagania
+Min. 3 lata doświadczenia jako Software Developer
+Sprawne programowanie w: React, TypeScript, Next.js, Python, FastAPI
+Znajomość baz danych i BaaS: PostgreSQL / MongoDB / Supabase / Firebase
+Umiejętność korzystania z chmury (GCP / AWS / Azure)
+Korzystanie z LLM-ów na co dzień (np. ChatGPT, Claude, Gemini) i znajomość różnic między modelami
+Znajomość narzędzi automatyzacji (n8n, Make, Zapier) i ekosystemu Microsoft 365 (Excel, SharePoint)
+Orientacja w nowoczesnych środowiskach do kolaboracji z AI: Claude Code CLI, Cursor, Lovable, v0, Computer Using Agents (CUAs), Agent SDKs
+Biegła znajomość języka polskiego i angielskiego
+
+Technologies we use:
+Technologie, których używamy
+Wymagane
+React.js
+TypeScript
+Next.js
+Python
+FastAPI
+PostgreSQL
+MongoDB
+Supabase
+Firebase
+GCP
+AWS
+Microsoft Azure
+Microsoft Excel
+Cursor
+HTML
+CSS
+SQL
+Git
+Claude Code
+Mile widziane
+Lovable
+v0
+Operator
+Agent SDKs
+Windsurf
+n8n
+Make
+Zapier
+SharePoint
+Figma
+Zod
+Pydantic
+System operacyjny
+----------------------------------------
+
+
+URL: https://www.pracuj.pl/praca/fullstack-developer-vibe-coder-ai-%2b-automatyzacje-warszawa-syta-114z,oferta,1004266129?s=11de5272&searchId=MTc1NTI4Mjg4OTQ4OC4zMDI3
+Job Name 
+Fullstack Developer & Vibe Coder - AI + Automatyzacje
+Company name 
+OdylionO firmie
+Salary 
+10 000 – 20 000 zł
+netto (+ VAT) / mies. | kontrakt B2B
+About the project:
+O projekcie
+Nie dołączasz jako trybik do korporacyjnego zespołu.
+Dołączasz jako kluczowa osoba, która wspólnie z zarządem kształtuje nowoczesną firmę.
+Masz realny wpływ na wybór projektów, architekturę, dobór narzędzi i kierunek rozwoju.
+Sam decydujesz, które działania przyniosą największe efekty.
+Brzmi jak coś dla Ciebie? Wskocz na pokład i pomóż nam zbudować technologiczną maszynę, której nie oprze się żaden klient.
+
+Your responsibilities:
+Twój zakres obowiązków
+Budowanie automatyzacji i usprawnień dla sprzedaży, logistyki, marketingu, finansów – natywnie lub z pomocą n8n, Zapier, Make
+Tworzenie backend'u, frontend'u, stawianie baz danych, pisanie testów, DevOps
+Współtworzenie software’owego stacku firmy – od koncepcji po wdrożenie
+Budowa i rozwój wewnętrznych systemów (intranet, CRM, ERP)
+Tworzenie rozwiązań dla klientów (strona www, panele B2B, zamówienia, formularze, chatboty)
+
+Our requirements:
+Nasze wymagania
+Min. 3 lata doświadczenia jako Software Developer
+Sprawne programowanie w: React, TypeScript, Next.js, Python, FastAPI
+Znajomość baz danych i BaaS: PostgreSQL / MongoDB / Supabase / Firebase
+Umiejętność korzystania z chmury (GCP / AWS / Azure)
+Korzystanie z LLM-ów na co dzień (np. ChatGPT, Claude, Gemini) i znajomość różnic między modelami
+Znajomość narzędzi automatyzacji (n8n, Make, Zapier) i ekosystemu Microsoft 365 (Excel, SharePoint)
+Orientacja w nowoczesnych środowiskach do kolaboracji z AI: Claude Code CLI, Cursor, Lovable, v0, Computer Using Agents (CUAs), Agent SDKs
+Biegła znajomość języka polskiego i angielskiego
+
+Technologies we use:
+Technologie, których używamy
+Wymagane
+React.js
+TypeScript
+Next.js
+Python
+FastAPI
+PostgreSQL
+MongoDB
+Supabase
+Firebase
+GCP
+AWS
+Microsoft Azure
+Microsoft Excel
+Cursor
+HTML
+CSS
+SQL
+Git
+Claude Code
+Mile widziane
+Lovable
+v0
+Operator
+Agent SDKs
+Windsurf
+n8n
+Make
+Zapier
+SharePoint
+Figma
+Zod
+Pydantic
+System operacyjny
+----------------------------------------
+
+
+URL: https://www.pracuj.pl/praca/fullstack-developer-vibe-coder-ai-%2b-automatyzacje-warszawa-syta-114z,oferta,1004266129?s=11de5272&searchId=MTc1NTI4Mjk3MDA0NS40NDI=
+Job Name 
+Fullstack Developer & Vibe Coder - AI + Automatyzacje
+Company name 
+Odylion
+Salary 
+10 000 – 20 000 zł
+netto (+ VAT) / mies. | kontrakt B2B
+About the project:
+O projekcie
+Nie dołączasz jako trybik do korporacyjnego zespołu.
+Dołączasz jako kluczowa osoba, która wspólnie z zarządem kształtuje nowoczesną firmę.
+Masz realny wpływ na wybór projektów, architekturę, dobór narzędzi i kierunek rozwoju.
+Sam decydujesz, które działania przyniosą największe efekty.
+Brzmi jak coś dla Ciebie? Wskocz na pokład i pomóż nam zbudować technologiczną maszynę, której nie oprze się żaden klient.
+
+Your responsibilities:
+Twój zakres obowiązków
+Budowanie automatyzacji i usprawnień dla sprzedaży, logistyki, marketingu, finansów – natywnie lub z pomocą n8n, Zapier, Make
+Tworzenie backend'u, frontend'u, stawianie baz danych, pisanie testów, DevOps
+Współtworzenie software’owego stacku firmy – od koncepcji po wdrożenie
+Budowa i rozwój wewnętrznych systemów (intranet, CRM, ERP)
+Tworzenie rozwiązań dla klientów (strona www, panele B2B, zamówienia, formularze, chatboty)
+
+Our requirements:
+Nasze wymagania
+Min. 3 lata doświadczenia jako Software Developer
+Sprawne programowanie w: React, TypeScript, Next.js, Python, FastAPI
+Znajomość baz danych i BaaS: PostgreSQL / MongoDB / Supabase / Firebase
+Umiejętność korzystania z chmury (GCP / AWS / Azure)
+Korzystanie z LLM-ów na co dzień (np. ChatGPT, Claude, Gemini) i znajomość różnic między modelami
+Znajomość narzędzi automatyzacji (n8n, Make, Zapier) i ekosystemu Microsoft 365 (Excel, SharePoint)
+Orientacja w nowoczesnych środowiskach do kolaboracji z AI: Claude Code CLI, Cursor, Lovable, v0, Computer Using Agents (CUAs), Agent SDKs
+Biegła znajomość języka polskiego i angielskiego
+
+Technologies we use:
+Technologie, których używamy
+Wymagane
+React.js
+TypeScript
+Next.js
+Python
+FastAPI
+PostgreSQL
+MongoDB
+Supabase
+Firebase
+GCP
+AWS
+Microsoft Azure
+Microsoft Excel
+Cursor
+HTML
+CSS
+SQL
+Git
+Claude Code
+Mile widziane
+Lovable
+v0
+Operator
+Agent SDKs
+Windsurf
+n8n
+Make
+Zapier
+SharePoint
+Figma
+Zod
+Pydantic
+System operacyjny
+----------------------------------------
+
+
+URL: https://www.pracuj.pl/praca/fullstack-developer-vibe-coder-ai-%2b-automatyzacje-warszawa-syta-114z,oferta,1004266129?s=11de5272&searchId=MTc1NTI4MzM0MjM4Ny43Mjc=
+Job Name 
+Fullstack Developer & Vibe Coder - AI + Automatyzacje
+Company name 
+Odylion
+Salary 
+10 000 – 20 000 zł
+netto (+ VAT) / mies. | kontrakt B2B
+About the project:
+O projekcie
+Nie dołączasz jako trybik do korporacyjnego zespołu.
+Dołączasz jako kluczowa osoba, która wspólnie z zarządem kształtuje nowoczesną firmę.
+Masz realny wpływ na wybór projektów, architekturę, dobór narzędzi i kierunek rozwoju.
+Sam decydujesz, które działania przyniosą największe efekty.
+Brzmi jak coś dla Ciebie? Wskocz na pokład i pomóż nam zbudować technologiczną maszynę, której nie oprze się żaden klient.
+
+Your responsibilities:
+Twój zakres obowiązków
+Budowanie automatyzacji i usprawnień dla sprzedaży, logistyki, marketingu, finansów – natywnie lub z pomocą n8n, Zapier, Make
+Tworzenie backend'u, frontend'u, stawianie baz danych, pisanie testów, DevOps
+Współtworzenie software’owego stacku firmy – od koncepcji po wdrożenie
+Budowa i rozwój wewnętrznych systemów (intranet, CRM, ERP)
+Tworzenie rozwiązań dla klientów (strona www, panele B2B, zamówienia, formularze, chatboty)
+
+Our requirements:
+Nasze wymagania
+Min. 3 lata doświadczenia jako Software Developer
+Sprawne programowanie w: React, TypeScript, Next.js, Python, FastAPI
+Znajomość baz danych i BaaS: PostgreSQL / MongoDB / Supabase / Firebase
+Umiejętność korzystania z chmury (GCP / AWS / Azure)
+Korzystanie z LLM-ów na co dzień (np. ChatGPT, Claude, Gemini) i znajomość różnic między modelami
+Znajomość narzędzi automatyzacji (n8n, Make, Zapier) i ekosystemu Microsoft 365 (Excel, SharePoint)
+Orientacja w nowoczesnych środowiskach do kolaboracji z AI: Claude Code CLI, Cursor, Lovable, v0, Computer Using Agents (CUAs), Agent SDKs
+Biegła znajomość języka polskiego i angielskiego
+
+Technologies we use:
+Technologie, których używamy
+Wymagane
+React.js
+TypeScript
+Next.js
+Python
+FastAPI
+PostgreSQL
+MongoDB
+Supabase
+Firebase
+GCP
+AWS
+Microsoft Azure
+Microsoft Excel
+Cursor
+HTML
+CSS
+SQL
+Git
+Claude Code
+Mile widziane
+Lovable
+v0
+Operator
+Agent SDKs
+Windsurf
+n8n
+Make
+Zapier
+SharePoint
+Figma
+Zod
+Pydantic
+System operacyjny
+----------------------------------------
+
+
+URL: https://www.pracuj.pl/praca/fullstack-developer-vibe-coder-ai-%2b-automatyzacje-warszawa-syta-114z,oferta,1004266129?s=11de5272&searchId=MTc1NTI4MzY3MDg4NC45Nzcz
+Job Name 
+Fullstack Developer & Vibe Coder - AI + Automatyzacje
+Company name 
+Odylion
+Salary 
+10 000 – 20 000 zł
+netto (+ VAT) / mies. | kontrakt B2B
+About the project:
+O projekcie
+Nie dołączasz jako trybik do korporacyjnego zespołu.
+Dołączasz jako kluczowa osoba, która wspólnie z zarządem kształtuje nowoczesną firmę.
+Masz realny wpływ na wybór projektów, architekturę, dobór narzędzi i kierunek rozwoju.
+Sam decydujesz, które działania przyniosą największe efekty.
+Brzmi jak coś dla Ciebie? Wskocz na pokład i pomóż nam zbudować technologiczną maszynę, której nie oprze się żaden klient.
+
+Your responsibilities:
+Twój zakres obowiązków
+Budowanie automatyzacji i usprawnień dla sprzedaży, logistyki, marketingu, finansów – natywnie lub z pomocą n8n, Zapier, Make
+Tworzenie backend'u, frontend'u, stawianie baz danych, pisanie testów, DevOps
+Współtworzenie software’owego stacku firmy – od koncepcji po wdrożenie
+Budowa i rozwój wewnętrznych systemów (intranet, CRM, ERP)
+Tworzenie rozwiązań dla klientów (strona www, panele B2B, zamówienia, formularze, chatboty)
+
+Our requirements:
+Nasze wymagania
+Min. 3 lata doświadczenia jako Software Developer
+Sprawne programowanie w: React, TypeScript, Next.js, Python, FastAPI
+Znajomość baz danych i BaaS: PostgreSQL / MongoDB / Supabase / Firebase
+Umiejętność korzystania z chmury (GCP / AWS / Azure)
+Korzystanie z LLM-ów na co dzień (np. ChatGPT, Claude, Gemini) i znajomość różnic między modelami
+Znajomość narzędzi automatyzacji (n8n, Make, Zapier) i ekosystemu Microsoft 365 (Excel, SharePoint)
+Orientacja w nowoczesnych środowiskach do kolaboracji z AI: Claude Code CLI, Cursor, Lovable, v0, Computer Using Agents (CUAs), Agent SDKs
+Biegła znajomość języka polskiego i angielskiego
+
+Technologies we use:
+Technologie, których używamy
+Wymagane
+React.js
+TypeScript
+Next.js
+Python
+FastAPI
+PostgreSQL
+MongoDB
+Supabase
+Firebase
+GCP
+AWS
+Microsoft Azure
+Microsoft Excel
+Cursor
+HTML
+CSS
+SQL
+Git
+Claude Code
+Mile widziane
+Lovable
+v0
+Operator
+Agent SDKs
+Windsurf
+n8n
+Make
+Zapier
+SharePoint
+Figma
+Zod
+Pydantic
+System operacyjny
+----------------------------------------
+
+
+URL: https://www.pracuj.pl/praca/fullstack-developer-vibe-coder-ai-%2b-automatyzacje-warszawa-syta-114z,oferta,1004266129?s=11de5272&searchId=MTc1NTI4Mzc1MDA2My42NDIz
+Job Name 
+Fullstack Developer & Vibe Coder - AI + Automatyzacje
+Company name 
+Odylion
+Salary 
+10 000 – 20 000 zł
+netto (+ VAT) / mies. | kontrakt B2B
+About the project:
+O projekcie
+Nie dołączasz jako trybik do korporacyjnego zespołu.
+Dołączasz jako kluczowa osoba, która wspólnie z zarządem kształtuje nowoczesną firmę.
+Masz realny wpływ na wybór projektów, architekturę, dobór narzędzi i kierunek rozwoju.
+Sam decydujesz, które działania przyniosą największe efekty.
+Brzmi jak coś dla Ciebie? Wskocz na pokład i pomóż nam zbudować technologiczną maszynę, której nie oprze się żaden klient.
+
+Your responsibilities:
+Twój zakres obowiązków
+Budowanie automatyzacji i usprawnień dla sprzedaży, logistyki, marketingu, finansów – natywnie lub z pomocą n8n, Zapier, Make
+Tworzenie backend'u, frontend'u, stawianie baz danych, pisanie testów, DevOps
+Współtworzenie software’owego stacku firmy – od koncepcji po wdrożenie
+Budowa i rozwój wewnętrznych systemów (intranet, CRM, ERP)
+Tworzenie rozwiązań dla klientów (strona www, panele B2B, zamówienia, formularze, chatboty)
+
+Our requirements:
+Nasze wymagania
+Min. 3 lata doświadczenia jako Software Developer
+Sprawne programowanie w: React, TypeScript, Next.js, Python, FastAPI
+Znajomość baz danych i BaaS: PostgreSQL / MongoDB / Supabase / Firebase
+Umiejętność korzystania z chmury (GCP / AWS / Azure)
+Korzystanie z LLM-ów na co dzień (np. ChatGPT, Claude, Gemini) i znajomość różnic między modelami
+Znajomość narzędzi automatyzacji (n8n, Make, Zapier) i ekosystemu Microsoft 365 (Excel, SharePoint)
+Orientacja w nowoczesnych środowiskach do kolaboracji z AI: Claude Code CLI, Cursor, Lovable, v0, Computer Using Agents (CUAs), Agent SDKs
+Biegła znajomość języka polskiego i angielskiego
+
+Technologies we use:
+Technologie, których używamy
+Wymagane
+React.js
+TypeScript
+Next.js
+Python
+FastAPI
+PostgreSQL
+MongoDB
+Supabase
+Firebase
+GCP
+AWS
+Microsoft Azure
+Microsoft Excel
+Cursor
+HTML
+CSS
+SQL
+Git
+Claude Code
+Mile widziane
+Lovable
+v0
+Operator
+Agent SDKs
+Windsurf
+n8n
+Make
+Zapier
+SharePoint
+Figma
+Zod
+Pydantic
+System operacyjny
+----------------------------------------
+
+
+URL: https://www.pracuj.pl/praca/fullstack-developer-vibe-coder-ai-%2b-automatyzacje-warszawa-syta-114z,oferta,1004266129?s=11de5272&searchId=MTc1NTI4MzgxNjUwMi4yODU0
+Job Name 
+Fullstack Developer & Vibe Coder - AI + Automatyzacje
+Company name 
+Odylion
+Salary 
+10 000 – 20 000 zł
+netto (+ VAT) / mies. | kontrakt B2B
+About the project:
+O projekcie
+Nie dołączasz jako trybik do korporacyjnego zespołu.
+Dołączasz jako kluczowa osoba, która wspólnie z zarządem kształtuje nowoczesną firmę.
+Masz realny wpływ na wybór projektów, architekturę, dobór narzędzi i kierunek rozwoju.
+Sam decydujesz, które działania przyniosą największe efekty.
+Brzmi jak coś dla Ciebie? Wskocz na pokład i pomóż nam zbudować technologiczną maszynę, której nie oprze się żaden klient.
+
+Your responsibilities:
+Twój zakres obowiązków
+Budowanie automatyzacji i usprawnień dla sprzedaży, logistyki, marketingu, finansów – natywnie lub z pomocą n8n, Zapier, Make
+Tworzenie backend'u, frontend'u, stawianie baz danych, pisanie testów, DevOps
+Współtworzenie software’owego stacku firmy – od koncepcji po wdrożenie
+Budowa i rozwój wewnętrznych systemów (intranet, CRM, ERP)
+Tworzenie rozwiązań dla klientów (strona www, panele B2B, zamówienia, formularze, chatboty)
+
+Our requirements:
+Nasze wymagania
+Min. 3 lata doświadczenia jako Software Developer
+Sprawne programowanie w: React, TypeScript, Next.js, Python, FastAPI
+Znajomość baz danych i BaaS: PostgreSQL / MongoDB / Supabase / Firebase
+Umiejętność korzystania z chmury (GCP / AWS / Azure)
+Korzystanie z LLM-ów na co dzień (np. ChatGPT, Claude, Gemini) i znajomość różnic między modelami
+Znajomość narzędzi automatyzacji (n8n, Make, Zapier) i ekosystemu Microsoft 365 (Excel, SharePoint)
+Orientacja w nowoczesnych środowiskach do kolaboracji z AI: Claude Code CLI, Cursor, Lovable, v0, Computer Using Agents (CUAs), Agent SDKs
+Biegła znajomość języka polskiego i angielskiego
+
+Technologies we use:
+Technologie, których używamy
+Wymagane
+React.js
+TypeScript
+Next.js
+Python
+FastAPI
+PostgreSQL
+MongoDB
+Supabase
+Firebase
+GCP
+AWS
+Microsoft Azure
+Microsoft Excel
+Cursor
+HTML
+CSS
+SQL
+Git
+Claude Code
+Mile widziane
+Lovable
+v0
+Operator
+Agent SDKs
+Windsurf
+n8n
+Make
+Zapier
+SharePoint
+Figma
+Zod
+Pydantic
+System operacyjny
+----------------------------------------
+
+
+URL: https://www.pracuj.pl/praca/fullstack-developer-vibe-coder-ai-%2b-automatyzacje-warszawa-syta-114z,oferta,1004266129?s=11de5272&searchId=MTc1NTI4MzkyODgyOC44ODg3
+Job Name 
+Fullstack Developer & Vibe Coder - AI + Automatyzacje
+Company name 
+Odylion
+Salary 
+10 000 – 20 000 zł
+netto (+ VAT) / mies. | kontrakt B2B
+About the project:
+O projekcie
+Nie dołączasz jako trybik do korporacyjnego zespołu.
+Dołączasz jako kluczowa osoba, która wspólnie z zarządem kształtuje nowoczesną firmę.
+Masz realny wpływ na wybór projektów, architekturę, dobór narzędzi i kierunek rozwoju.
+Sam decydujesz, które działania przyniosą największe efekty.
+Brzmi jak coś dla Ciebie? Wskocz na pokład i pomóż nam zbudować technologiczną maszynę, której nie oprze się żaden klient.
+
+Your responsibilities:
+Twój zakres obowiązków
+Budowanie automatyzacji i usprawnień dla sprzedaży, logistyki, marketingu, finansów – natywnie lub z pomocą n8n, Zapier, Make
+Tworzenie backend'u, frontend'u, stawianie baz danych, pisanie testów, DevOps
+Współtworzenie software’owego stacku firmy – od koncepcji po wdrożenie
+Budowa i rozwój wewnętrznych systemów (intranet, CRM, ERP)
+Tworzenie rozwiązań dla klientów (strona www, panele B2B, zamówienia, formularze, chatboty)
+
+Our requirements:
+Nasze wymagania
+Min. 3 lata doświadczenia jako Software Developer
+Sprawne programowanie w: React, TypeScript, Next.js, Python, FastAPI
+Znajomość baz danych i BaaS: PostgreSQL / MongoDB / Supabase / Firebase
+Umiejętność korzystania z chmury (GCP / AWS / Azure)
+Korzystanie z LLM-ów na co dzień (np. ChatGPT, Claude, Gemini) i znajomość różnic między modelami
+Znajomość narzędzi automatyzacji (n8n, Make, Zapier) i ekosystemu Microsoft 365 (Excel, SharePoint)
+Orientacja w nowoczesnych środowiskach do kolaboracji z AI: Claude Code CLI, Cursor, Lovable, v0, Computer Using Agents (CUAs), Agent SDKs
+Biegła znajomość języka polskiego i angielskiego
+
+Technologies we use:
+Technologie, których używamy
+Wymagane
+React.js
+TypeScript
+Next.js
+Python
+FastAPI
+PostgreSQL
+MongoDB
+Supabase
+Firebase
+GCP
+AWS
+Microsoft Azure
+Microsoft Excel
+Cursor
+HTML
+CSS
+SQL
+Git
+Claude Code
+Mile widziane
+Lovable
+v0
+Operator
+Agent SDKs
+Windsurf
+n8n
+Make
+Zapier
+SharePoint
+Figma
+Zod
+Pydantic
+System operacyjny
+----------------------------------------
+
+
+URL: https://www.pracuj.pl/praca/san-monitoring-sme-krakow,oferta,1004270383?s=84462f51&searchId=MTc1NTI4NDAxMzMwMC43Nzg2&ref=rangeBox_1_1
+Job Name 
+SAN Monitoring SME
+Company name 
+ITDS Polska Sp. z o.o.
+Salary 
+21 000 – 25 200 zł
+net (+ VAT) / mth. | B2B contract
+About the project:
+About the project
+As a SAN Monitoring SME, you will be working for our client, a global financial institution undertaking a large-scale infrastructure optimization initiative to standardize and monitor storage across its worldwide operations. You will be instrumental in designing and implementing observability solutions for SAN and block storage systems, ensuring seamless integration, reliability, and performance across various core platforms. This role combines deep technical expertise with strategic oversight, contributing to both operational excellence and long-term infrastructure roadmaps in a highly regulated, enterprise-scale environment.
+
+Your responsibilities:
+Your responsibilities
+Integrating monitoring tools with core SAN infrastructure APIs
+Reviewing and improving the team’s operational processes and deliverables
+Collaborating with vendors and service providers to ensure optimal service value
+Leading initiatives to align storage operations with strategic infrastructure goals
+Managing BAU tasks including provisioning, reclaim, and performance optimization
+Maintaining technical documentation, service catalogs, and IT standards
+Performing patching, system maintenance, incident resolution, and change management
+Ensuring best practices across the global storage estate
+Developing and maintaining technology and process roadmaps for the storage domain
+
+Our requirements:
+Our requirements
+Deep understanding of SAN infrastructure, architecture, and functional requirements
+Hands-on experience with block storage platforms such as EMC, Pure, Cisco, and Brocade
+Strong understanding of SAN APIs and platform integrations
+Proficiency in SAN provisioning tasks like SRDF, zoning, and TimeFinder
+Expertise in troubleshooting SAN-related issues and fiber channel technologies
+Familiarity with system maintenance, patching, incident handling, and change processes
+Good scripting skills in Shell, Python, or Puppet
+Experience documenting IT standards and creating service catalog items
+Ability to translate business needs into technical specifications
+Clear understanding of Windows/Linux environments in relation to storage
+Optional
+Experience working in Agile environments
+Knowledge of VMware infrastructure and datastore provisioning
+Exposure to HPE or additional Pure storage solutions
+Understanding of regulatory compliance and data protection in enterprise storage
+Familiarity with automation of provisioning and performance monitoring
+Experience leading teams or initiatives in large-scale infrastructure environments
+Ability to work effectively with cross-functional teams and global stakeholders
+
+Technologies we use:
+Technologies we use
+Expected
+Puppet
+Python
+Shell
+Operating system
+----------------------------------------
+
+
+URL: https://www.pracuj.pl/praca/machine-learning-engineer-krakow,oferta,1004239016?s=84462f51&searchId=MTc1NTI4NDAxMzMwMC43Nzg2&ref=rangeBox_3_1
+Job Name 
+Machine Learning Engineer
+Company name 
+ITDS Polska Sp. z o.o.
+Salary 
+18 000 – 21 400 zł
+net (+ VAT) / mth. | B2B contract
+About the project:
+About the project
+As a Machine Learning Engineer, you will be working for our client, a global financial institution focused on innovation in credit risk analytics. You will be contributing to a high-impact project aimed at enhancing predictive modeling capabilities for consumer and corporate lending portfolios. The client is investing in state-of-the-art techniques to assess risk, improve compliance, and streamline loan evaluation processes. You will collaborate with cross-functional teams to build, validate, and deploy robust models that drive data-informed decisions across the organization.
+Join us, and turn data into powerful financial insights!
+Kraków - based opportunity with hybrid work model (2 days/week in the office).
+
+Your responsibilities:
+Your responsibilities
+Developing predictive models for credit scoring, loan deterioration, and time-to-default
+Performing data exploration and feature engineering using behavioral and transactional credit data
+Ensuring model performance, robustness, and interpretability using statistical and ML-based metrics
+Collaborating with Data Engineering teams to integrate models into production environments
+Supporting the documentation, audit, and validation processes for regulatory compliance
+Applying advanced ML techniques such as XGBoost, LightGBM, and survival models to risk problems
+Monitoring and retraining models to ensure long-term reliability and compliance
+Presenting findings and explaining model logic to risk, compliance, and audit stakeholders
+
+Our requirements:
+Our requirements
+3+ years of experience in a Data Scientist or ML Engineer role in a regulated or financial environment
+Proven experience with credit risk modeling including logistic regression, scorecards, and survival models
+Strong coding skills in Python and experience with libraries such as scikit-learn, XGBoost, pandas, SHAP
+Proficiency in SQL for data extraction, transformation, and analysis
+Understanding of statistical concepts and model evaluation techniques
+Familiarity with credit lifecycle data including payments, delinquencies, and account activity
+Experience with model interpretability tools and practices
+Ability to work collaboratively with engineering and risk teams
+Strong communication skills with the ability to simplify complex model logic for non-technical stakeholders
+Experience working in environments that require model documentation and validation
+Optional
+Familiarity with regulatory frameworks such as IFRS 9, ECL, or Basel III
+Hands-on experience with real-time or batch scoring pipeline integration
+Knowledge of Markov chains in the context of credit risk transitions
+Exposure to model monitoring and drift detection tools
+
+Technologies we use:
+Technologies we use
+Expected
+Python
+SQL
+Operating system
+----------------------------------------
+
+
+URL: https://www.pracuj.pl/praca/software-engineer-java-scala-krakow,oferta,1004270385?s=84462f51&searchId=MTc1NTI4NDAxMzMwMC43Nzg2&ref=rangeBox_4_1
+Job Name 
+Software Engineer (Java, Scala)
+Company name 
+ITDS Polska Sp. z o.o.
+Salary 
+23 100 – 31 500 zł
+net (+ VAT) / mth. | B2B contract
+About the project:
+About the project
+As a Software Engineer, you will be working for our client, a global financial institution focused on delivering high-performance, low-latency trading systems for fixed income markets. You are contributing to the development of distributed server-side applications supporting electronic trading workflows. You are helping to implement robust, reusable code in a mission-critical environment that demands reliability, scalability, and performance. Collaborating with both technical and non-technical teams, you are ensuring that modern trading platforms operate seamlessly in fast-paced, multi-site global operations
+
+Your responsibilities:
+Your responsibilities
+Designing and implementing low-latency, high-performance trading systems
+Writing reusable, maintainable, and scalable object-oriented or functional code
+Contributing to the delivery of distributed systems in mission-critical environments
+Collaborating with stakeholders to refine business requirements into technical solutions
+Participating in code reviews and technical discussions with global teams
+Supporting continuous delivery practices with a focus on quality and automation
+Liaising with non-technical staff to understand and refine platform needs
+Ensuring attention to detail and accuracy in all development activities
+Working independently to troubleshoot and resolve complex issues
+
+Our requirements:
+Our requirements
+5+ years of experience in software engineering roles
+Strong proficiency in Java and/or Scala server-side development
+Proven experience with multi-threaded programming and concurrency
+Background in building high-performance, low-latency systems
+Solid understanding of object-oriented and/or functional programming principles
+Experience working on global distributed systems in critical environments
+Strong problem-solving skills and self-driven work ethic
+Ability to communicate effectively with non-technical stakeholders
+Experience delivering systems in Agile or fast-paced environments
+High attention to detail and code quality
+Optional
+Knowledge of fixed income trading or other e-trading workflows
+Experience with HTML5 and web-based frontend technologies
+Familiarity with BDD/TDD methodologies and automated testing practices
+Understanding of middleware technologies like ION, Solace, or RMDS
+Exposure to trading desk operations in investment banks or hedge funds
+
+Technologies we use:
+Technologies we use
+Expected
+Java
+Scala
+Operating system
+----------------------------------------
+
+
+URL: https://www.pracuj.pl/praca/automation-test-engineer-krakow,oferta,1004231954?s=84462f51&searchId=MTc1NTI4NDAxMzMwMC43Nzg2&ref=rangeBox_5_1
+Job Name 
+Automation Test Engineer
+Company name 
+ITDS Polska Sp. z o.o.
+Salary 
+24 150 – 31 500 zł
+net (+ VAT) / mth. | B2B contract
+About the project:
+About the project
+As a Automation Test Engineer, you will be working for our client, a leading global financial institution focused on delivering innovative digital banking solutions. The client is advancing their testing capabilities to ensure the highest quality user experience across web and mobile platforms. You will be instrumental in developing and maintaining automated test scripts within Agile teams, contributing to faster and more reliable delivery of software features, while continuously improving test automation frameworks and methodologies.
+Join us, and shape quality through cutting-edge test automation tools!
+Kraków – based opportunity with hybrid work model (2 days/week in the office).
+
+Your responsibilities:
+Your responsibilities
+Designing and developing automated test scripts using Java or TypeScript
+Implementing and maintaining test automation frameworks such as Selenium or Playwright
+Writing and executing BDD-style test scenarios using Cucumber and Gherkin syntax
+Collaborating with developers and product owners in Agile sprint cycles
+Integrating automated tests into CI/CD pipelines using Jenkins
+Supporting test framework enhancement and troubleshooting automation issues
+Reviewing and analyzing requirements to define test cases and strategies
+Participating in sprint planning, grooming, and retrospective meetings
+Executing API testing using tools like REST Assured or Postman
+Reporting and tracking defects using JIRA and ensuring timely resolution
+
+Our requirements:
+Our requirements
+Hands-on experience with Core Java and Selenium or TypeScript and Playwright
+Proficiency in BDD methodology using Cucumber and Gherkin syntax
+Strong coding skills in Java and/or TypeScript
+Solid experience with Agile and SAFe methodologies, focusing on ‘in-sprint’ automation
+Good understanding of modern web UI frameworks such as Angular or React
+Experience integrating test automation in CI/CD pipelines using Jenkins
+Familiarity with REST API testing and HTTP/JSON protocols
+Strong analytical and problem-solving skills
+Excellent written and verbal communication skills in English
+Experience working with version control (Git) and issue tracking tools (JIRA)
+Optional
+Hands-on experience with REST Assured or JUnit for API testing
+Understanding of retail banking functions and requirements
+Experience with API testing tools such as Postman, Anypoint, or Rest Client
+
+Technologies we use:
+Technologies we use
+Expected
+Java
+Selenium
+TypeScript
+Cucumber.js
+Gherkin
+Angular.js
+React.js
+Jenkins
+Git
+Jira
+Operating system
+----------------------------------------
+
+
+URL: https://www.pracuj.pl/praca/mq-administrator-krakow,oferta,1004282553?s=84462f51&searchId=MTc1NTI4NDAxMzMwMC43Nzg2&ref=rangeBox_6_1
+Job Name 
+MQ Administrator
+Company name 
+ITDS Polska Sp. z o.o.
+Salary 
+18 900 – 25 200 zł
+net (+ VAT) / mth. | B2B contract
+About the project:
+About the project
+As an MQ Administrator, you will be working for our client, a global financial services institution undertaking a large-scale modernization of its messaging infrastructure. The project focuses on ensuring high availability and performance of business-critical applications through the efficient management of IBM MQ across distributed environments. You will be collaborating with cross-functional teams to maintain, secure, and optimize messaging systems that support complex banking operations. Your expertise will be instrumental in enabling seamless integration between systems while maintaining compliance with stringent enterprise and regulatory standards.
+
+Your responsibilities:
+Your responsibilities
+Creating and managing MQ objects including queues, channels, and listeners
+Monitoring the performance and availability of MQ environments
+Troubleshooting incidents and resolving integration issues
+Managing MQ clustering, workload balancing, and failover settings
+Implementing security measures such as SSL/TLS and Active Directory integration
+Automating routine administrative tasks using scripting tools
+Participating in change management and deployment processes
+Maintaining disaster recovery and backup procedures for MQ environments
+Collaborating with application and infrastructure teams to support projects and operations
+
+Our requirements:
+Our requirements
+A bachelor’s degree in Computer Science, Information Technology, or equivalent experience
+At least 3 years of hands-on experience with IBM MQ administration
+Strong understanding of MQ internals and troubleshooting methodologies
+Experience with security implementation in MQ (SSL/TLS, access controls)
+Proficiency in scripting with Shell, Python, REXX, or PowerShell
+Familiarity with distributed MQ environments
+Knowledge of MQ clustering and workload balancing techniques
+Understanding of ITIL processes including Incident and Change Management
+Strong communication, analytical, and problem-solving skills
+Ability to document configurations and issue resolutions effectively
+Optional
+Experience managing MQ in enterprise or high-availability environments
+Familiarity with IBM Integration Bus (IIB) or App Connect Enterprise (ACE)
+Exposure to cloud-based MQ services such as AWS MQ or IBM Cloud MQ
+Hands-on experience with MQ monitoring tools like Omegamon or Instana
+Certification in IBM MQ or a related technology
+
+Technologies we use:
+Technologies we use
+Expected
+Shell
+Python
+REXX
+PowerShell
+Operating system
+----------------------------------------
+
+
+URL: https://www.pracuj.pl/praca/business-analyst-krakow,oferta,1004251652?s=84462f51&searchId=MTc1NTI4NDAxMzMwMC43Nzg2&ref=rangeBox_8_1
+Job Name 
+Business Analyst
+Company name 
+ITDS Polska Sp. z o.o.
+Salary 
+21 000 – 23 100 zł
+net (+ VAT) / mth. | B2B contract
+About the project:
+About the project
+As a Business Analyst, you will be working for our client, a global financial services provider driving regulatory and operational transformation within its global IT governance structure. The project focuses on enhancing control frameworks, regulatory compliance, and risk mitigation through collaboration with internal stakeholders and external vendors. You will play a critical role in aligning business requirements with strategic technology solutions, supporting ongoing change initiatives, and contributing to a culture of control excellence. This is a dynamic and impactful position at the heart of a global compliance-driven environment.
+Join us, and turn complex requirements into smart solutions!
+Kraków – based opportunity with hybrid work model (2 days/month in the office).
+
+Your responsibilities:
+Your responsibilities
+Gathering and analyzing business requirements and user stories from key stakeholders
+Running workshops with control owners and compliance experts
+Collaborating with global teams to ensure regulatory alignment across initiatives
+Facilitating communication between the client and third-party assessment vendors
+Supporting the delivery of regulatory and strategic initiatives
+Working with Risk, Compliance, and Control teams to maintain alignment
+Conducting analysis and supporting proof-of-concept activities for new solutions
+Assisting with planning, tracking, and reporting project deliverables
+Ensuring project documentation is complete, accurate, and well-structured
+Using platforms like JIRA, Confluence, and ServiceNow to manage workflows
+
+Our requirements:
+Our requirements
+Hands-on experience defining and managing risks and controls in a tech environment
+Proven knowledge of IT project management and software delivery lifecycles
+Background in complex financial services environments with regional/global scope
+Familiarity with control frameworks such as ITIL, COBIT, NIST, or ISO27001
+Understanding of Agile methodology and iterative delivery models
+Excellent communication and stakeholder engagement skills
+Strong analytical and documentation capabilities
+Ability to work both independently and collaboratively in a fast-paced setting
+High proficiency in English, both written and spoken
+Proficiency using tools such as JIRA, Confluence, ServiceNow, and Zoom
+Optional
+Experience with IBM OpenPages or MS Visio
+Background in consulting, particularly with a Big 4 firm
+Familiarity with regulatory mapping or horizon scanning solutions
+
+Technologies we use:
+Technologies we use
+Expected
+Jira
+Confluence
+ServiceNow
+Zoom
+Optional
+Microsoft Visio
+Operating system
+----------------------------------------
+
+
+URL: https://www.pracuj.pl/praca/technical-lead-mobile-ios-krakow,oferta,1004231813?s=84462f51&searchId=MTc1NTI4NDAxMzMwMC43Nzg2&ref=rangeBox_9_1
+Job Name 
+Technical Lead (Mobile – iOS)
+Company name 
+ITDS Polska Sp. z o.o.
+Salary 
+24 150 – 33 600 zł
+net (+ VAT) / mth. | B2B contract
+About the project:
+About the project
+As a Technical Lead (Mobile – iOS) you will be working for our client, a leading global financial institution focused on modernizing their mobile banking experience. The project involves developing robust, secure, and scalable iOS applications that meet high standards of user experience and performance. You will be joining a cross-functional team that’s dedicated to creating innovative solutions for mobile banking, ensuring accessibility, security, and seamless integration with backend services. This role is ideal for someone passionate about cutting-edge mobile technology and eager to work in a fast-paced, regulated environment.
+Join us, and turn innovative ideas into elegant mobile solutions!
+Kraków – based opportunity with hybrid work model (2 days/week in the office).
+*Role requires the conversion to client’s organization after 6 months*
+
+Your responsibilities:
+Your responsibilities
+Designing and implementing new features for iOS applications
+Collaborating with cross-functional teams to define, design, and ship new features
+Ensuring the performance, quality, and responsiveness of applications
+Writing unit and UI tests to ensure application robustness
+Maintaining and improving code quality, organization, and automation
+Monitoring app performance and resolving production issues
+Integrating third-party libraries and APIs
+Reviewing and mentoring code written by team members
+Participating in CI/CD processes and implementing SAST/MAST tooling
+Keeping up-to-date with industry trends and best practices
+
+Our requirements:
+Our requirements
+Extensive experience developing and supporting complex iOS applications
+Expert-level proficiency in Swift and Objective-C
+Deep understanding of Apple Human Interface Guidelines and best practices
+Proficiency with Xcode and AppCode IDEs
+Experience using testing frameworks such as XCTest, Specta, or Appium
+Familiarity with dependency managers like Cocoapods
+Solid knowledge of RESTful APIs and client-server interactions
+Experience implementing accessibility features in mobile apps
+Hands-on experience with architectural design patterns such as MVVM or MVC
+A degree in Computer Science and 7+ years of engineering experience, including 3+ years in a senior role
+Optional
+Experience building reusable frameworks or libraries
+Familiarity with secure networking and OWASP Mobile Top 10 principles
+Knowledge of performance, scalability, and security optimization techniques
+Experience integrating video, financial, or security-related third-party libraries
+Previous involvement in guiding and mentoring development teams
+
+Technologies we use:
+Technologies we use
+Expected
+iOS
+Swift
+Objective-C
+XCTest
+Specta
+Appium
+Operating system
+----------------------------------------
+
+
+URL: https://www.pracuj.pl/praca/financial-engineer-krakow,oferta,1004285117?s=84462f51&searchId=MTc1NTI4NDAxMzMwMC43Nzg2&ref=rangeBox_10_1
+Job Name 
+Financial Engineer
+Company name 
+ITDS Polska Sp. z o.o.
+Salary 
+16 800 – 25 200 zł
+net (+ VAT) / mth. | B2B contract
+About the project:
+About the project
+As a Financial Engineer, you will be working for our client, a global financial leader establishing an advanced research and development unit dedicated to transforming risk analytics. You will be accelerating the creation of prototypes that redefine risk analysis and measurement, driving innovation in model development, and streamlining deployment processes. This role offers the opportunity to work on cutting-edge methods that improve consistency, reduce costs, and minimise project risks. You will be collaborating with experts across functions, shaping tools and platforms that influence the future of risk management in the financial sector.
+Join us, and build cutting-edge tools shaping the future of finance!
+Kraków – based opportunity with hybrid work model (1 day/week in the office).
+
+Your responsibilities:
+Your responsibilities
+Developing and testing prototype applications to improve risk analysis processes
+Creating models and algorithms to enhance risk measurement consistency
+Implementing object-oriented programming solutions, especially in Python
+Applying mathematical or engineering programming tools such as MATLAB
+Designing and maintaining robust testing frameworks
+Collaborating with R&D team members to explore advanced analytical methods
+Streamlining operational workflows for model development projects
+Reducing deployment time and complexity through innovative solutions
+Documenting development processes and ensuring code quality
+Supporting knowledge sharing and technical guidance within the team
+
+Our requirements:
+Our requirements
+MSc or PhD in Computer Science, Mathematics, Physics, Operational Research, or Information Systems
+At least 5 years of experience building and testing applications professionally
+Proficiency in Python and an object-oriented programming language such as Java, C++, or C#
+Experience programming in a mathematical or engineering technical environment such as MATLAB
+Knowledge of common software design patterns
+Strong understanding of testing principles and best practices
+Ability to work collaboratively in an R&D environment
+Excellent problem-solving and analytical thinking skills
+Proven ability to deliver high-quality, maintainable code
+Strong written and verbal communication skills
+Optional
+Experience developing in an Agile environment with continuous integration practices
+Familiarity with algorithms for processing large datasets such as Map/Reduce
+Knowledge of machine learning and pattern recognition techniques
+Experience in Apache Spark, particularly PySpark
+Knowledge of Go programming language
+
+Technologies we use:
+Technologies we use
+Expected
+Python
+Java
+C++
+C#
+Optional
+Apache Spark
+Go
+Operating system
+----------------------------------------
+
+
+URL: https://www.pracuj.pl/praca/fullstack-engineer-net-%2b-react-katowice-uniwersytecka-13,oferta,1004261418?s=84462f51&searchId=MTc1NTI4NDAxMzMwMC43Nzg2&ref=rangeBox_11_1
+Job Name 
+Fullstack Engineer (.NET + React)
+Company name 
+Sopra Steria Polska Sp. z o.o.
+Salary 
+14 000 – 17 000 zł
+gross / mth. | contract of employment
+About the project:
+About the project
+We are looking for a Senior Fullstack Engineer (.NET + React) to join Sopra Steria team for one of our Scandinavian clients. You will be working on a project related to the development and maintenance of integrations in Azure environments. The project is held in an international environment, for one of the main market leaders in their industry.
+
+Your responsibilities:
+Your responsibilities
+Development of web applications and services based on C# and .NET framework, React
+Design, implementation and maintenance of application functionality based on best programming practices
+Design, development and optimization of web applications and APIs using ASP.NET Core
+Managing and deploying applications in the Azure Cloud
+Monitoring of applications in Azure and optimization of cloud resources
+Creating and managing Continuous Integration / Continuous Deployment (CI/CD) processes in Azure DevOps
+Automating processes for testing, building and deploying applications
+Design, development and integration of systems using RESTful APIs and ensuring consistency and high performance of APIs
+Design and implementation of applications in microservices architecture
+Working with the Git system for code versioning, branch management and team collaboration
+Excellent communication skills in English (B2+), both written and spoken
+Working as part of a scrum team, actively participating in meetings, retrospectives and sprint planning
+Effective analysis of customer needs and alignment of technical solutions with business requirements
+
+Our requirements:
+Our requirements
+Proficiency in C# and the .NET framework.
+Experience with ASP.NET Core for building web applications and APIs
+Knowledge about JavaScript, HTML, CSS & Typescript
+Hands-on experience with Azure services like App Services, Azure Functions, Azure Storage etc
+Knowledge of deploying, managing, and monitoring applications in Azure
+Experience with Azure DevOps for CI/CD pipelines
+Experience with RESTful API design and implementation
+Familiarity with Azure Integration Services (Logic Apps, Service Bus, Event Grid)
+Understanding of integration patterns and best practices
+Experience with microservices architecture and distributed systems
+Knowledge of design patterns and SOLID principles
+Familiarity with version control systems, particularly Git
+Strong problem-solving and analytical abilities
+Excellent communication and teamwork skills - English B2+
+Ability to work in an Agile/Scrum environment
+Ability to understand and analyze client needs effectively
+Proactive in providing tailored solutions and recommendations
+Strong presentation skills
+Demonstrated ability to build and maintain client relationships
+Optional
+Ability to design scalable, maintainable, and secure applications
+Knowledge about integration with OData APIs
+AI expertise
+Microsoft Azure certifications (e.g., Azure Developer Associate)
+Relevant .NET or software architecture certifications
+
+Technologies we use:
+Technologies we use
+Expected
+C#
+.NET
+ASP.NET Core MVC
+JavaScript
+HTML
+CSS
+Typescript
+Microsoft Azure
+Azure DevOps
+Git
+Operating system
+----------------------------------------
+
+
+URL: https://www.pracuj.pl/praca/senior-software-engineer-krakow-jana-dekerta-24,oferta,1004260999?s=84462f51&searchId=MTc1NTI4NDAxMzMwMC43Nzg2&ref=rangeBox_12_1
+Job Name 
+Senior Software Engineer
+Company name 
+HERE Technologies
+Salary 
+14 000 – 21 000 zł
+gross / mth. | contract of employment
+About the project:
+About the project
+HERE is searching for a Senior Software Engineer (Backend) for our Foundation Engineering team. Foundation Engineering enables the creation of mapping products that are highly available, performant, and near real-time.
+Within Foundation Engineering, You will be part of Traffic automated road closure detection and verification(ACV/ACD) and Development team. This a real-time system with big data processing that uses AI/ML to solve one of the most imporant of traffic road closure functionality. This system has a very high SLA needs and already running in production which needs maintanance and enhancement several features are in pipeline to develop.
+The job includes all parts of software development lifecycle: refining product vision, gathering requirements, software system design, coding, testing, release and support. As our team is spread around the globe, you will work collaboratively with other team members from different locations.
+
+Your responsibilities:
+Your responsibilities
+Participate in the full software development lifecycle of our service
+Develop an innovative, scalable, high-quality system within a cross-functional team
+Write clean, simple, and well-tested code following TDD
+Contribute ideas for new features and identify areas for improvement
+Contribute to continuous integration and continuous delivery of systems and infrastructure
+Provide rotational on-call support to the product and root cause analysis of software and system defects
+Direct code and technical contributions, not delegating all hands on work
+Technical Architecture of the Service
+Technical topics focusing on more than one developer – this means fostering and mediating technical debates within the service
+
+Our requirements:
+Our requirements
+Bachelor's or Master's degree in Computer Science, Software Engineering, or a closely related field (or an equivalent level of practical experience)
+4+ years of professional expertise as a Software Engineering Life Cycle
+Demonstrate expertise in Java and experience with distributed systems and distributed computing
+Strong with logical & problem solving - Data Strcutures, Algorithms
+Proficiency in using continuous integration, build and collaboration tools (e.g. JIRA, Git/Gerrit, Wikis)
+Additionally, worked in utilizing any cloud or AWS technologies such as Amazon EMR, S3, EC2, and Athena knowledgeable about various deployment approaches
+Exhibit exceptional aptitude in tackling intricate issues, showcasing adeptness in identifying and resolving technical hurdles
+Showcase robust communication and collaborative abilities, effectively contributing within a team-based setting
+Possess an inherent enthusiasm for continuous learning and a commitment to remaining current with the latest trends and technologies in software development
+Optional
+Experience with working in Scala, Big Data
+CI/CD pipline (Gitlab), Containers (Docker) and their orchestration (Kubernetes)
+Applying Machine Learning techniques & alogrithms
+Location-based services such as mapping, navigation, GPS
+
+Technologies we use:
+Technologies we use
+Expected
+Jira
+Git
+AWS
+Java
+Optional
+GitLab
+Docker
+Kubernetes
+Scala
+----------------------------------------
+
+
+URL: https://www.pracuj.pl/praca/junior-java-engineer-krakow-swietego-jana-20,oferta,1004232840?s=84462f51&searchId=MTc1NTI4NDAxMzMwMC43Nzg2&ref=rangeBox_13_1
+Job Name 
+Junior Java Engineer
+Company name 
+INK SOLUTIONS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ
+Salary 
+5 000 zł
+brutto / mies. | umowa o pracę
+About the project:
+O projekcie
+INK Solutions is a premier software development company dedicated to empowering businesses with innovative digital solutions. We specialize in creating custom software applications that streamline operations, enhance customer engagement, and drive growth. We are currently seeking a highly motivated Junior Full Stack Engineer to join our dynamic team and contribute to the expansion of our comprehensive suite of digital solutions.
+This position offers a unique opportunity to develop a broad range of skills in both front-end and back-end development, contribute to meaningful projects, and grow within a supportive and innovative environment. We look forward to welcoming talented and passionate individuals to our team.
+There is the potential for a salary increase after three months, along with the chance to collaborate closely with and be mentored by the CEO/Software Architect of INK solutions.
+
+Your responsibilities:
+Twój zakres obowiązków
+Full Stack Development: Engage in both front-end and back-end development of software applications, ensuring responsive and efficient operation across various platforms and devices.
+Application Design and Implementation: Contribute to the design and implementation of user interfaces and server-side logic, optimizing for performance and scalability.
+Collaboration and Version Control: Work collaboratively within a team environment using version control systems to manage code changes and review code contributions from peers.
+Continuous Learning and Growth: Remain abreast of emerging technologies and industry trends to incorporate into development practices, enhancing the team’s capabilities and the quality of our solutions.
+Problem-Solving: Apply critical thinking and problem-solving skills to debug issues, refine application performance, and contribute to the continuous improvement of our development processes.
+
+Our requirements:
+Nasze wymagania
+A fundamental understanding of software development principles and the software development lifecycle is essential.
+Experience with version control systems, preferably Git.
+Basic understanding of RESTful APIs and web services.
+Ability to quickly learn new technologies and adapt to changing technical environments.
+Strong problem-solving skills and a commitment to delivering high-quality software solutions.
+Must be based in Poland or willing to relocate, as working from Poland is a requirement for this position.
+
+Technologies we use:
+Technologie, których używamy
+Wymagane
+HTML
+CSS
+JavaScript
+React
+Angular
+Python
+Java
+Node.js
+----------------------------------------
+
+
+URL: https://www.pracuj.pl/praca/it-portfolio-analyst-krakow,oferta,1004261551?s=84462f51&searchId=MTc1NTI4NDAxMzMwMC43Nzg2&ref=rangeBox_14_1
+Job Name 
+IT Portfolio Analyst
+Company name 
+ITDS Polska Sp. z o.o.
+Salary 
+12 600 – 14 700 zł
+net (+ VAT) / mth. | B2B contract
+About the project:
+About the project
+As an IT Portfolio Analyst, you will be working for our client, a global financial services institution engaged in digital transformation initiatives and portfolio optimization across business units. You will support project and portfolio governance, facilitate reporting processes, and ensure the successful implementation of Agile practices. Operating in a dynamic and fast-paced environment, you are helping to drive efficient data collection, stakeholder coordination, and timely decision-making for senior leaders. Your role is essential in enabling transparency and improving portfolio performance at both regional and global levels.
+Join us, and turn data into powerful strategic decisions!
+Kraków – based opportunity with hybrid work model (2 days/week in the office).
+
+Your responsibilities:
+Your responsibilities
+Managing and maintaining Jira and Confluence platforms for portfolio-level tracking
+Coordinating with cross-functional teams to gather, validate, and analyze portfolio data
+Producing meaningful Management Information (MI) to support executive decision-making
+Prioritizing competing requests and aligning them with portfolio goals
+Preparing and presenting reports using Excel and PowerPoint for senior stakeholders
+Facilitating Agile governance meetings and maintaining key documentation
+Identifying process inefficiencies and proposing improvements
+Tracking action items and ensuring follow-ups across regional and global teams
+Communicating effectively with diverse stakeholders across time zones
+Supporting the adoption of Agile frameworks within portfolio management
+
+Our requirements:
+Our requirements
+Strong hands-on experience with Jira and Confluence
+Solid knowledge of Agile methodologies and principles
+Advanced proficiency in Excel and PowerPoint
+Strong analytical mindset with a focus on MI and data-driven decisions
+Experience engaging with stakeholders at multiple levels of an organization
+Excellent verbal communication skills for managing meetings and follow-ups
+Excellent written communication skills for preparing stakeholder updates
+High level of autonomy and ability to work independently
+Ability to manage competing priorities in a changing environment
+A collaborative approach to working in global, distributed teams
+Optional
+Experience working in an Agile environment
+Familiarity with SAFe or Lean Portfolio Management
+Knowledge of Clarity or Qlik for portfolio reporting
+Experience creating or maintaining Excel Macros
+Understanding of financial industry planning processes and trends
+A proactive mindset in driving process improvements
+
+Technologies we use:
+Technologies we use
+Expected
+Jira
+Confluence
+Microsoft Excel
+----------------------------------------
+
+
