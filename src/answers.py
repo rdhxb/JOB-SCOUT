@@ -39,7 +39,7 @@ WORKLOAD_WS = {
 SPEC_OVERRIDES = {
     "Full-stack": "fullstack",
     "Game dev": "gamedev",
-    "Big Data / Data science": "big-data-science",
+    "Big Data / Data Science": "big-data-science",
     "QA/Testing": "testing",
     "Product management": "product-management",
     "Project management": "project-management",
@@ -50,15 +50,6 @@ SPEC_OVERRIDES = {
     "IT admin": "it-admin",
     "AL/ML": "al-ml"
 }
-
-
-
-
-
-
-
-
-
 
 def process_answers(answers):
     base = BASE_IT
@@ -110,26 +101,9 @@ def process_answers(answers):
     
 
         
-    print(f'Full path: {BASE_IT}{path}')
-
-
-#     print("\n--- Your Answers ---")
-# # dziala ale chyba trzeba bedzie zrovi dict i jednak IT fiz i tak dalej moaja jakies inne URl wiec tylko dla IT 
-#     for q , ans in answers.items():
-#         print(f"{q}: {ans}")
-
-#         if ans == 'Warszawa':
-#             URL += '/warszawa;wp'
-#         elif ans == '3 dni':
-#             URL += "/ostatnich%203%20dni;p,3"
-#         print(URL)
-
-
-
-
-
-    
-
+    url = f'{BASE_IT}{path}'
+    # print(url)
+    return url
 
 
 # --- Your Answers ---

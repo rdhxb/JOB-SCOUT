@@ -1,0 +1,139 @@
+URL: https://www.pracuj.pl/praca/javascript-solidity-developer-defi-warszawa-gieldowa-5,oferta,1004259130?s=2934b176&searchId=MTc1NTI3MTAwMjcwMi4yNDkz
+Name of a company JavaScript / Solidity Developer (DeFi)
+About the project:
+O projekcie
+W ramach jednego z naszych głównych projektów, zajmujemy się budową rozwiązań z zakresu High Frequency Tradingu. Nasze algorytmy są wykorzystywane na wielu zcentralizowanych giełdach kryptowalut (CEX) pochodzących z aż sześciu kontynentów. Jesteśmy aktywnym uczestnikiem DEXów (Decentralized Exchange) oraz innych rozwiązań dziedziny z rozproszonych finansów (DeFi). Członkowie naszego zespołu, nierzadko pasjonaci technologii blockchain oraz kryptowalut, tworzą rozwiązania integrujące się z wieloma zdecentralizowanymi aplikacjami (dApp) jakimi jak Uniswap, Curve, TraderJoe, Balancer, Jupiter. W związku z szybkim rozwojem naszego zespołu poszukujemy do oddziału w Warszawie osób na stanowisko
+
+Your responsibilities:
+Twój zakres obowiązków
+W ramach projektu przyszły pracownik będzie miał możliwość:
+• rozwoju nowych funkcjonalności w systemie rozproszonym,
+• integracji z DEXam oraz innymi aplikacjami DeFi,
+• implementacji smart kontraktów odpowiedzialnych za dokonywanie transakcji,
+• dokładnego testowania oraz debugowania smart kontraktów,
+• optymalizacji istniejących rozwiązań w celu polepszenia naszej efektywności na rynku,
+• decydowania o użytych technologiach,
+• rozwiązywania problemów oraz proponowania własnych pomysłów, ponieważ wysoko cenimy samodzielność, kreatywność i otwartość na wdrażanie nowych rozwiązań naszych pracowników,
+• zdobywania wiedzy z branży tradingowej poprzez m.in. permanentną współpracę z quantami oraz traderami,
+• szybkiego rozwoju poprzez korzystanie z nowoczesnych technologii w środowisku pracy dalekim od skostniałej struktury i kultury korporacyjnej.
+
+Our requirements:
+Nasze wymagania
+Szukamy osób, które:
+• posiadają wykształcenie wyższe lub są w trakcie studiów,
+• pasjonują się tematyką DeFi oraz chcą się w niej rozwijać,
+• posiadają praktyczną wiedzę na temat JavaScript (ES6/TS) oraz bibliotek takich jak web3.js, ethers.js,
+• potrafią pisać czysty, testowalny kod,
+• znają podstawowe zagadnienia sieciowe oraz wielowątkowe,
+• znają wzorce projektowe i potrafią je optymalnie wykorzystywać,
+• posiadają wysoko rozwinięte zdolności analityczne, otwarty umysł oraz są gotowe do nieszablonowego myślenia,
+• chcą się rozwijać i chętnie współpracują w zespole,
+• znają język angielski na poziomie pozwalającym na swobodną komunikację,
+• interesują się lub chcą rozpocząć swoją karierę w obszarze tradingu na rynku kryptowalut,
+• potrafią tworzyć i testować smart kontrakty w języku Solidity lub Rust (mile widziane).
+
+Technologies we use:
+Technologie, których używamy
+Wymagane
+DeFi
+JavaScript
+web3.js
+ethers.js
+Mile widziane
+Solidity
+Rust
+System operacyjny
+----------------------------------------
+URL: https://www.pracuj.pl/praca/angular-frontend-developer-warszawa-aleja-niepodleglosci-69,oferta,1004275361?s=2934b176&searchId=MTc1NTI3MTAwMjcwMi4yNDkz
+Name of a company Angular Frontend Developer
+About the project:
+About the project
+We’re building a next-generation application for managing electric vehicle chargers, specifically focused on home charging for employees of B2B clients. The solution enables seamless cost reimbursement for home charging and ensures accurate settlement with the employer.
+You’ll join a small, agile, and highly collaborative team working on a modern tech stack to deliver a meaningful solution for a growing market.
+
+Your responsibilities:
+Your responsibilities
+Develop and maintain a modern, scalable Angular frontend application (v18)
+Implement responsive and performant UI components based on business requirements
+Manage application state using Akita, NgRx, or Redux
+Write clean, well-structured, and well-tested code using TypeScript, RxJS, Jest, and Spectator
+Conduct thorough code reviews and provide constructive feedback to peers
+Collaborate closely with backend developers, architects, testers, PO, SM, and BAs to deliver end-to-end features
+Translate UX/UI designs and technical specifications into high-quality code
+Participate actively in daily stand-ups, sprint planning, reviews, and retrospectives
+Contribute to improving development workflows, code quality standards, and architectural decisions
+
+Our requirements:
+Our requirements
+At least 4 years of experience in frontend development
+Strong expertise with Angular (v13+)
+Proficient in TypeScript and RxJS
+Solid experience with state management libraries (Akita, NgRx, Redux)
+Strong unit testing practices (Jest, Spectator)
+Clean code mindset and attention to maintainable architecture
+Comfortable conducting in-depth code reviews
+Experience working in cross-functional agile teams
+Hands-on experience with documentation in JIRA/Confluence
+English and Polish proficiency at B2/C1 level or higher
+Residing in Poland required
+
+Technologies we use:
+Technologies we use
+Expected
+TypeScript
+Angular
+RxJS
+Redux
+Optional
+Akita
+NgRx
+Jest
+----------------------------------------
+URL: https://www.pracuj.pl/praca/tester-aplikacji-webowych-warszawa-czerska-8-10,oferta,1004249209?s=2934b176&searchId=MTc1NTI3MTAwMjcwMi4yNDkz
+Name of a company Tester aplikacji webowych
+About the project:
+O projekcie
+W Almarise rozwijamy wiele aplikcji, w tym nasz nowy produkt: Apptime – nowoczesną aplikację webową do kompleksowego zarządzania czasem pracy, zespołami i projektami. Apptime integruje się z Jira i wspiera zespoły IT oraz usługowe w planowaniu, rozliczaniu i analizie pracy.
+Tworzymy rozwiązanie dostępne zarówno w modelu chmurowym (multitenancy), jak i on-premises, co stawia przed nami ciekawe wyzwania inżynierskie i zapewnia dużą różnorodność w testowaniu.
+
+Your responsibilities:
+Twój zakres obowiązków
+Planowanie i realizacja testów manualnych oraz automatycznych aplikacji Apptime.
+Reprodukowanie błędów zgłaszanych przez klientów oraz weryfikacja ich naprawy.
+Projektowanie scenariuszy i przypadków testowych – również testów regresyjnych.
+Prowadzenie testów wydajnościowych i bezpieczeństwa (JMeter).
+Tworzenie i utrzymywanie testów automatycznych w Playwright i Selenium.
+Współpraca z zespołem programistów, analityków i projektantów UX.
+Tworzenie dokumentacji testowej i systemowej w języku polskim i angielskim.
+
+Our requirements:
+Nasze wymagania
+Doświadczenie komercyjne jako tester aplikacji webowych.
+Znajomość narzędzi: Playwright, Selenium, JMeter.
+Umiejętność reprodukowania błędów i tworzenia testów regresyjnych.
+Znajomość zagadnień bezpieczeństwa aplikacji (np. OWASP Top 10).
+Umiejętność tworzenia czytelnej dokumentacji technicznej i testowej.
+Dokładność, samodzielność i proaktywność.
+Umiejętność pracy zespołowej i dobrej komunikacji z zespołem technicznym.
+Dobra znajomość języka angielskiego (min. poziom B2).
+Gotowość do pracy w trybie hybrydowym (1–2 dni z biura tygodniowo).
+Mile widziane
+Znajomość CI/CD (GitHub Actions, GitLab CI).
+Podstawowa znajomość Java lub TypeScript.
+Umiejętność pisania promptów do systemów LLM
+Znajomość SQL i umiejętność korzystania z baz danych
+Znajomość narzędzi Atlassian
+Dociekliwość i umiejętność "szukania dziury w całym"
+Doświadczenie w analizie logów i pracy z narzędziami do monitoringu aplikacji.
+
+Technologies we use:
+Technologie, których używamy
+Wymagane
+Playwright
+Selenium
+JMeter
+Mile widziane
+Java
+TypeScript
+Python
+----------------------------------------
