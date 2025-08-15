@@ -1,0 +1,15 @@
+service_account.json
+service_account.json
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Editor
+.vscode/
+
+# Secrets
+service_account.json
