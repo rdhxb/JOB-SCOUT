@@ -1,117 +1,1166 @@
-URL: https://www.pracuj.pl/praca/senior-react-native-engineer-with-native-ios-android-warszawa-prosta-20,oferta,1004247006?s=1aff9b5&searchId=MTc1NTI3MTc0OTMzOC4wODQ1
-Name of a company 
-Senior React Native Engineer with Native iOS/Android
+URL: https://www.pracuj.pl/praca/senior-data-scientist-warszawa-wioslarska-8,oferta,1004262372?s=fbdeec28&searchId=MTc1NTI3ODkzNDUxNy45Mg==&ref=top_boosterAI_L0_1_1_1
+Job Name 
+Senior Data Scientist
+Company name 
+SHIFTKEY sp. z o.o.About the company
 Salary 
-18 000 – 25 000 zł
+23 000 – 27 000 zł
 gross / mth. | contract of employment
 About the project:
 About the project
-We’re a team of 65 passionate tech professionals in Warsaw, collaborating closely with colleagues in the UK. Our culture is built on innovation, knowledge sharing, and continuous improvement—and we're looking for talented engineers to join a team developing mobile products using React Native and TypeScript. If you enjoy working with clean architecture, modern technologies, and being part of a supportive team that learns from each other, we’d love to hear from you!
+As a Senior Data Scientist at ShiftKey, you’ll play a key role in shaping the future of our data science function and driving innovative solutions across both our Marketplace and SaaS products within the Healthcare space. You will lead the development and deployment of advanced machine learning models - from traditional methods to cutting-edge techniques like deep learning, Generative AI, and Graph Neural Networks. Your work will directly impact business outcomes, delivering actionable insights that fuel growth and operational efficiency.
 
 Your responsibilities:
 Your responsibilities
-Develop and maintain mobile applications using React Native, React and TypeScript
-Frequently lead scoping of initiatives, consider boundaries and non-functional requirements
-Propose ideas, contribute to technology choices, and present solutions to the team
-Foster a culture of implementing commonly understood design patterns and processes
-Integrate with backend services via REST API and/or GraphQL
-Work with React Native’s new architecture, applying best practices for scalability and performance
-Write unit and integration tests using tools like Jest, Detox, and Testing Library
-Optimize the performance of mobile applications
-Implement and manage state management solutions (e.g., Redux, Mobx)
-Collaborate with backend teams and designers to ensure consistency and high-quality deliverables
-Strategically improve CI/CD processes and deployment strategies
-Troubleshoot complex technical issues and help scale mobile applications
-Actively participate in the Scrum process (stand-ups, retrospectives, and technology discussions).
+Lead the full process of ML models: You will be in charge of everything from understanding the business problem, determining how AI/ML can provide value, exploring data, building features, developing models, deploying them, tracking their performance, and measuring their impact on the business.
+Build and improve predictive models: You’ll use statistical methods and deep learning to create models for things like market segmentation, forecasting, recommendations, pricing strategies, and fraud detection.
+Design and implement Generative AI solutions: You’ll work on tasks like fine-tuning large language models, creating effective prompts, and generating synthetic data for both internal tools and customer-facing applications.
+Use Graph Neural Networks for relationship modeling: You’ll apply these models to understand relationships between healthcare facilities, professionals, and other related attributes like shifts.
 
 Our requirements:
 Our requirements
-At least 5 years of experience working with React Native, React and TypeScript including enterprise-grade experience (experience with large app decomposition, layers separation, and scalable architecture for enterprise-level applications).
-Experience with architecture and design patterns.
-Familiarity with different styling solutions (StyleSheet, Styled Components, Unistyles).
-Efficient React Native debugging skills — ability to troubleshoot and resolve complex issues with React Native applications using debugging tools, logs, and error tracking.
-Practical knowledge of JavaScript and testing frameworks (Jest, Detox, Testing Library).
-Experience in Brownfield Development.
-Experience working with REST API and/or GraphQL.
-Understanding of state management patterns and solutions like Redux and Mobx.
-Knowledge of native iOS development (Swift, SwiftUI, Combine) and Android development (Kotlin). Proficiency in using native build tools like Xcode, Gradle, and Android Studio.
-C1-level proficiency in both English and Polish – you will use both languages in all aspects of your daily work
-Collaborative and communicative – you work well with others, share knowledge, and express ideas clearly.
-Solution-oriented and creative – you tackle challenges with practical, innovative solutions.
-Quality-driven with a continuous improvement mindset – you take pride in delivering clean, secure, and maintainable code while seeking ways to improve.
-Eager to learn and adapt – you embrace new ideas and grow with your team.
-Comfortable in Agile environments – you thrive in cross-functional collaboration and value constructive feedback.
-Optional
-Experience integrating mobile apps with external services.
-Experience with TurboModules and TurboComponents.
-Experience with accessibility (a11y) best practices in mobile apps, including WCAG compliance and keyboard navigation support.
-Experience with UX/UI design best practices.
+6+ years of data science experience, ideally with a background in two-sided marketplaces or supply chain management.
+Experience with advanced ML models like regression, neural networks, and recommender systems.
+Proficiency in Python, SQL, and popular libraries like scikit-learn, PyTorch, TensorFlow, and XGBoost.
+Familiarity with LLMs and Generative AI frameworks (e.g., LangChain, Hugging Face, OpenAI API).
+Experience with network graph analysis and building/deploying GNN solutions (using tools like networkx, iGraph, PyG).
+Comfortable writing production-level code and working with software engineers and MLOps teams.
+Strong communication skills for effective coordination across teams.
 
 Technologies we use:
 Technologies we use
 Expected
-React Native
-React.js
-TypeScript
-GraphQL
-Redux
-Mobx
-Android
-iOS
-Xcode
-Gradle
-Android Studio
-Kotlin
+Python
+SQL
+scikit-learn
+PyTorch
+TensorFlow
+XGBoost
+Optional
+LangChain
+Hugging Face
+OpenAI API
+Operating system
 ----------------------------------------
-URL: https://www.pracuj.pl/praca/tester-aplikacji-webowych-warszawa-czerska-8-10,oferta,1004249209?s=1aff9b5&searchId=MTc1NTI3MTc0OTMzOC4wODQ1
-Name of a company 
-Tester aplikacji webowych
+
+
+URL: https://www.pracuj.pl/praca/decision-support-analyst-gdansk-aleja-grunwaldzka-472b,oferta,1004276174?s=fbdeec28&searchId=MTc1NTI3ODkzNDUxNy45Mg==
+Job Name 
+Decision Support Analyst
+Company name 
+Acxiom Global Service Center Polska sp. z o. oAbout the company
 Salary 
-6 000 – 10 000 zł
+8 000 – 10 700 zł
+gross / mth. | contract of employment
+About the project:
+About the project
+As a Decision Support Analyst focused on Email Marketing campaigns you will work closely with the team of email marketing and data experts. You will ensure that Acxiom executes for our clients well targeted campaigns with high quality content.
+PLEASE NOTE: There are four different work time slots. Please indicate which slot (or slots) suits you best: 9am-5pm, 12pm-8pm, 2pm-10pm, 4pm-midnight.
+
+Your responsibilities:
+Your responsibilities
+You will understand details of client's data and Acxiom's marketing capabilities to ensure clients receive accurately segmented, cleansed, formatted and ready-to-market data.
+You will take ownership of complex tasks around email marketing campaigns.
+You will work in a team of skilled marketing automation professionals, creating, executing and measuring performance of marketing campaigns.
+You will be preparing audience segments in campaign management platforms.
+You will manage heavily scripted dynamic emails, to automate content creation.
+You will provide analysis to support decision making process by measuring campaign efficiency, data accuracy, data integrity, operations performance, customer satisfaction and cost effectiveness.
+
+Our requirements:
+Our requirements
+Understanding and working knowledge of email marketing campaigns, audience selection and performance reporting
+Good understanding and working knowledge of SQL (preferably Oracle)
+Good communication skills
+Good spoken and written English (B2 level or higher)
+
+Technologies we use:
+Technologies we use
+Expected
+SQL
+Oracle
+Excel
+Operating system
+----------------------------------------
+
+
+URL: https://www.pracuj.pl/praca/delivery-analyst-gdansk-aleja-grunwaldzka-472b,oferta,1004237246?s=fbdeec28&searchId=MTc1NTI3ODkzNDUxNy45Mg==
+Job Name 
+Delivery Analyst
+Company name 
+Acxiom Global Service Center Polska sp. z o. oAbout the company
+Salary 
+9 500 – 11 200 zł
+gross / mth. | contract of employment
+About the project:
+About the project
+PLEASE NOTE: There are four different work time slots. Please indicate which slot (or slots) suits you best:
+9am-5pm, 12pm-8pm, 2pm-10pm, 4pm-midnight.
+The Delivery Analyst delivers data, data products, and information that drive our client’s multi-channel marketing capabilities. You will understand the details of our client’s data and Acxiom’s products to ensure that our clients and/or third-party vendors receive clean, improved, segmented, ready-to-market data. You will strive daily to improve quality and adhere to standard processes and procedures, work with our partners to begin to understand requirements and raise issues with a focus on maintaining a seamless process flow. You will analyze, solve issues and modify processes and data to ensure efficient delivery of services to Acxiom clients. In addition, you will maintain a deep understanding of Acxiom's processing and product capabilities and utilize that understanding to exceed client expectations.
+
+Your responsibilities:
+Your responsibilities
+Accountable for ownership of on-time input and output delivery, including taking initiative to monitor after hours
+Lead and run source file receipt with clients, vendors, and/or internal partners
+Accurately validate source and output data, data formatting specifications, and output requirements according to specifications and service level agreements ensuring zero defects
+Deliver accurate output information to clients and/or their vendors through the appropriate data processing platforms and utilizing transfer mechanisms
+Ensure compliance with quality assurance processes, established procedures, project requirements and agreements/expectations
+Research, solve problems and take action regarding data or processing issues according to product, client and/or third-party vendor specifications. Communicate internally and externally with clients and partners as determined by the nature of the discussion.
+
+Our requirements:
+Our requirements
+Very good command of English (written and spoken)
+Competent technical skills - UNIX, SQL (writing and understanding queries)
+Strong analytical and organizational skills
+Good client facing skills
+Minimum 2 years of experience within the client-services industry or from the client-side (more for the senior level)
+Good MS Office skills - particularly Excel
+Proven experience of data and databases
+Optional
+Basics of campaign management and campaign tools
+Knowledge of data integration
+Exposure to Snowflake and Salesforce ecosystems
+
+Technologies we use:
+Technologies we use
+Expected
+Unix
+Linux
+SQL
+Microsoft Excel
+Optional
+Snowflake Data Cloud
+Salesforce
+Campaign management tools
+----------------------------------------
+
+
+URL: https://www.pracuj.pl/praca/senior-data-analyst-graph-product-qa-gdansk-aleja-grunwaldzka-472b,oferta,1004270239?s=fbdeec28&searchId=MTc1NTI3ODkzNDUxNy45Mg==
+Job Name 
+Senior Data Analyst Graph Product QA
+Company name 
+Acxiom Global Service Center Polska sp. z o. oAbout the company
+Salary 
+10 000 – 14 700 zł
+gross / mth. | contract of employment
+About the project:
+About the project
+At Acxiom, it’s more than crunching numbers—we're about transforming data into groundbreaking insights and data products that we make available to many of the world’s largest enterprises. We’re on the lookout for passionate and experienced Sr. Data Analyst to be a part of our team working on large scale data engineering challenges.
+In this role, you will work closely with cross-functional teams to provide industry leading data products to many of the world’s largest enterprises. You will: build and facilitate data workflows, build and review data quality dashboards, interact with vendors, and collaborate with other stakeholders regarding requirements and results. You role will involve working with Acxiom graph products and ensuring its of high quality.
+
+Your responsibilities:
+Your responsibilities
+Conduct analysis of our graphs. Identify areas of over and under consolidations, and generate right quantifiable metrics to report back to Graph engineering team for improvements
+Build standardized dashboards that present a high level view of quality of the graph
+Ensure data quality and integrity through dashboarding and rigorous validation and quality checks
+Ensure graph QA process is compliant with data governance standards
+Ensure successful execution of production data workflows
+Analyze large sets of data to identify trends, patterns, and opportunities
+Drive automation to reduce manual intervention and improve efficiency
+Proactively communicate with project stakeholders regarding workflow results, project status, and open questions
+Perform ad-hoc data analysis requests and provide actionable recommendations
+Build knowledge of the data you manage and be a resource for other stakeholders regarding the attributes and characteristics of the data
+
+Our requirements:
+Our requirements
+Bachelor's degree in Data Science, Statistics, Computer Science, Information Systems, or related disciplines
+3-4 year of experience in ETL or data warehousing
+Proficiency in pyspark, python, SQL and/or similar programming languages
+3-4 years of Experience working in entity resolution/graph build/Master data management problem
+Proficiency in databricks, snowflake, and AWS
+Proficiency in Linux, shell scripting and/or similar scripting languages for automation
+Strong analytical and problem-solving skills with keen attention to detail
+Excellent written and oral communication skills
+History of proactive stakeholder communication and driving project success
+Enthusiasm for working in a collaborative, fast-paced environment
+Optional
+Good understanding of US demographics and population characteristics
+
+Technologies we use:
+Technologies we use
+Expected
+ETL
+SQL
+Databricks
+AWS
+Snowflake Data Cloud
+Linux
+pyspark
+Python
+Operating system
+----------------------------------------
+
+
+URL: https://www.pracuj.pl/praca/senior-data-engineer-warszawa-jana-nowaka-jezioranskiego-53a,oferta,1004215468?s=fbdeec28&searchId=MTc1NTI3ODkzNDUxNy45Mg==
+Job Name 
+Senior Data Engineer
+Company name 
+CLOUDFIDE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄAbout the company
+Salary 
+140,00 – 180,00 zł
+net (+ VAT) / hr. | B2B contract
+About the project:
+About the project
+You are
+Passionate about cloud and data analytics, inspiring person that enjoy your day-to-day job. Curious and eager to learn new technologies. One that would like to work with a team of like-minded people.
+Opportunity overview
+You will work on a project involving modern cloud data lake implementation, leveraging Databricks, CI/CD and cloud services as your daily driver.
+
+Your responsibilities:
+Your responsibilities
+Designing, implementing, and optimizing modern cloud-based solutions.
+Building and launching new data models and data pipelines.
+Implementing best practices in data engineering including data integrity, quality, and documentation.
+Optimization of existing analytical solutions.
+Leading small size teams of engineers and being a role model.
+
+Our requirements:
+Our requirements
+4+ years of experience delivering complex data warehouse / data lake / business intelligence solutions.
+2+ years of experience working with cloud services (Azure / GCP / AWS).
+Knowledgeable and experienced in Python.
+Experience in SQL and data analysis, knowledge of relational databases (preferably SQL Server, PostgreSQL).
+Knowledge of public cloud architecture, security, networking concepts and best practices (MS Azure preferred).
+Knowledge of DWH data modeling practices and ETL/ELT development.
+Conceptual and analytical skills – the ability to define, analyze and document complex business and technical requirements.
+Optional
+Experience with Apache Spark or Databricks platform.
+Experience with Azure DevOps environment.
+Experience with Apache Airflow.
+
+Technologies we use:
+Technologies we use
+Expected
+Microsoft Azure
+Python
+SQL
+Databricks
+Optional
+PostgreSQL
+Microsoft SQL Server
+Apache Spark
+Azure DevOps
+Apache Airflow
+Operating system
+----------------------------------------
+
+
+URL: https://www.pracuj.pl/praca/senior-backend-engineer-algorithm-data-processing-krakow-jana-dekerta-24,oferta,1004269549?s=fbdeec28&searchId=MTc1NTI3ODkzNDUxNy45Mg==
+Job Name 
+Senior Backend Engineer – Algorithm & Data Processing
+Company name 
+HERE TechnologiesAbout the company
+Salary 
+16 000 – 21 000 zł
+gross / mth. | contract of employment
+About the project:
+About the project
+Ever wondered how a global map that enables offline rendering, routing, search, navigation, and traffic assistance fits on a mobile SD card? Join the Compilation Frameworks team, where we’re building the technology behind one of the world’s most advanced digital map formats that is conquering the location market. You will be challenged by a lot of interesting algorithmic, design and performance problems that allow you to leverage and fully unfold your intellectual skills.
+As part of our team, you will have the opportunity to create HERE Map - a digital representation of the world - that powers mobile and automobile navigation applications, advanced and autonomous driving systems and serves as a base for numerous location services. Your work will have a global impact: the map you create will be used in millions of cars and on millions of mobile devices across the whole world. You will take advantage of high-end cloud computing, devise a SPARK cluster to process terabytes of all kinds of source data to create a comprehensive, highly compressed, semantically and geo-indexed map content for backend and client services.
+You will develop a map compiler framework that enables users of the Here Platform to compile their own data with Here Map Content, the most comprehensive and current source of location data worldwide. In a team of highly skilled professionals you will enjoy a great team atmosphere, highly collaborative spirit and have lots of opportunities to learn and develop your skills as well as to contribute to the team's success.
+
+Your responsibilities:
+Your responsibilities
+Design and develop robust, scalable, commercial-grade software.
+Contribute to architectural and design discussions.
+Collaborate on user story creation, effort estimation, and acceptance criteria.
+Conduct peer code reviews and ensure high code quality.
+Write unit and executable acceptance tests.
+Help build and maintain development infrastructure (CI/CD, testing, etc.).
+Contribute to team documentation and internal knowledge sharing.
+Participate in hiring and mentoring new team members.
+
+Our requirements:
+Our requirements
+3+ years of professional software development experience.
+Strong analytical and problem-solving skills.
+Expert-level knowledge in at least one of: C++, Java, or Scala with willingness to use Scala
+Deep knowledge of data structures and basic algorithms
+Very strong level in algorithm engineering
+Expertise in object-oriented design
+Experience in distributed computation
+Experience in large scale data processing
+Passion for clean, maintainable, and efficient code.
+Advanced degree (MSc or PhD) in Computer Science or a related field.
+Optional
+Experience with Scala and Apache Spark or similar distributed computing frameworks.
+Background in functional and concurrent programming.
+Familiarity with AWS, EMR, and other cloud-based services.
+Experience with modern CI/CD tools (e.g., GitLab, GoCD, Jenkins).
+Working in agile, cross-functional teams across multiple time zones.
+Researcher experience.
+
+Technologies we use:
+Technologies we use
+Expected
+C++
+Java
+Scala
+Optional
+Scala
+Apache Spark
+AWS
+EMR
+GitLab
+GoCD
+Jenkins
+----------------------------------------
+
+
+URL: https://www.pracuj.pl/praca/senior-business-intelligence-operations-administrator-szczecin-aleja-piastow-30,oferta,1004262501?s=fbdeec28&searchId=MTc1NTI3ODkzNDUxNy45Mg==
+Job Name 
+Senior Business Intelligence Operations Administrator
+Company name 
+Coloplast Business Centre Sp z o.o.About the company
+Salary 
+(not found)
+About the project:
+(not found)
+
+Your responsibilities:
+Your responsibilities
+Deployment of BI solutions
+System configuration, setup, documentation, and enhancements
+2nd and 3rd level end-user support
+Monitoring, maintaining, and improving our current BI systems and infrastructure
+Collaborate with the BI team in Denmark on daily tasks
+Work with database management software to store, analyze, utilize, and present data
+Manage user access and security
+
+Our requirements:
+Our requirements
+5-6 years of experience working with a large cloud-based BI setup
+Solid knowledge of Business Intelligence platforms
+Minimum 3-year experience working in an international work environment
+Advanced SQL skills and strong experience with SQL databases
+Proven experience with managing and administering Azure Data Factory (ADF), Azure Analysis Services, or equivalent tools
+Hands-on experience with Power BI
+Master’s or bachelor’s degree in IT or a related field
+Experience working with DevOps as a deployment tool, including documentation of processes
+Travel Requirements: 5-10 days away from the office annually
+Good business understanding
+Team-player mindset with a strong focus on knowledge sharing within the team
+Fluent in spoken and written English
+Strong communication skills
+Broad BI understanding
+Optional
+Experience working with Databricks platform will be considered a plus
+Knowledge of ITIL Fundamentals framework will be considered a plus
+
+Technologies we use:
+Technologies we use
+Expected
+SQL
+Azure Data Factory
+Databricks
+Business Intelligence
+Power BI
+Operating system
+----------------------------------------
+
+
+URL: https://www.pracuj.pl/praca/ferryt-developer-warszawa,oferta,1004262448?s=fbdeec28&searchId=MTc1NTI3ODkzNDUxNy45Mg==
+Job Name 
+Ferryt Developer
+Company name 
+ITDS Polska Sp. z o.o.About the company
+Salary 
+10 000 – 15 000 zł
+gross / mth. | contract of employment
+About the project:
+About the project
+As a Ferryt Developer you will be working for our client, a leading international banking corporation undergoing digital transformation to enhance its internal operations and customer-facing platforms. You will join a team focused on process automation and system integration, working with cutting-edge technologies and cross-functional teams to develop and optimize Ferryt-based workflows. The role involves both technical development and analysis, requiring a proactive and collaborative approach to align business needs with system capabilities in an agile environment.
+Join the team and develop Ferryt's innovative processes in international banking!
+Warsaw-based opportunity with possibility to work 100% remotely!
+
+Your responsibilities:
+Your responsibilities
+Conduct business and system analysis for Ferryt processes
+Develop and integrate Ferryt-based processes with other applications
+Define and extract reusable components from the Ferryt platform
+Perform manual testing, including functional, integration, and acceptance tests
+Analyze and troubleshoot errors through log verification
+Collaborate with business and technical teams to gather requirements
+Participate proactively in Scrum, Cross-Scrum, and Chapter meetings
+Document workflows and system behavior using BPMN and UML
+Support deployment and validation of developed processes
+Ensure alignment of developed solutions with business expectations
+
+Our requirements:
+Our requirements
+Experience in business and system analysis
+Practical knowledge of BPMN and UML
+Ability to perform manual testing in various phases
+Skills in error analysis and log verification
+Basic understanding of SQL
+Strong communication and collaboration skills
+Proactive attitude in agile team meetings
+Knowledge of Ferryt process development and integration
+Ability to identify and structure reusable platform components
+Experience working in agile or Scrum teams
+
+Technologies we use:
+Technologies we use
+Expected
+BPMN
+UML
+SQL
+Operating system
+----------------------------------------
+
+
+URL: https://www.pracuj.pl/praca/data-manager-kolbuszowa-handlowa-2a,oferta,1004259447?s=fbdeec28&searchId=MTc1NTI3ODkzNDUxNy45Mg==
+Job Name 
+Data Manager
+Company name 
+RUBIX APPLICATION CENTRE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄAbout the company
+Salary 
+6 500 – 8 500 zł
+gross / mth. | contract of employment
+About the project:
+About the project
+As a true data specialist, you will work in collaboration with all the stakeholders within the RUBIX group in order to improve the performance and relevance of the data.
+You will also ensure the 1st level of quality by performing analyses in collaboration with the technical experts.
+
+Your responsibilities:
+Your responsibilities
+Follow, and develop data management policies aligned with Rubix’s business strategy.
+Ensure data integrity, security, and compliance with European standards.
+Create, enrich, classify and monitor the items in our Master Database.
+Lead initiatives to optimize master data management across multiple platforms. (Master Data Management system + PIM).
+Train and support teams in data management best practices.
+
+Our requirements:
+Our requirements
+You are a data specialist. You have at least 1 year of successful experience as an assistant Database Manager, Feed Marketplace Manager, or e-Commerce Product Content Manager ideally in the industry sector or within a B2B oriented distribution company
+Excellent analytical, problem-solving, and communication skills.
+You work well in teams and on your own
+You communicate and present confidently in English, additional languages being advantageous
+Perfect knowledge of Office packages (especially Excel).
+Required qualities: responsible, autonomous, good communicator, sense of customer satisfaction, and teamwork.
+Fluency in English and Polish is essential (B2).
+
+Technologies we use:
+Technologies we use
+Expected
+Microsoft Excel
+Master Data Management System
+Optional
+P360
+Operating system
+----------------------------------------
+
+
+URL: https://www.pracuj.pl/praca/mid-data-engineer-warszawa-jana-nowaka-jezioranskiego-53a,oferta,1004279342?s=fbdeec28&searchId=MTc1NTI3ODkzNDUxNy45Mg==
+Job Name 
+Mid Data Engineer
+Company name 
+CLOUDFIDE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄAbout the company
+Salary 
+80,00 – 140,00 zł
+net (+ VAT) / hr. | B2B contract
+About the project:
+About the project
+You are
+Passionate about Cloud and data analytics. Curious and eager to learn new technologies. One that would like to work with a team of like-minded people.
+Opportunity overview
+You will work on a project involving modern cloud data lake implementation, leveraging Databricks, CI/CD and cloud services as your daily driver.
+
+Your responsibilities:
+Your responsibilities
+Implementing, and optimizing modern cloud-based solutions.
+Building and launching new data models and data pipelines.
+Implementing best practices in data engineering including data integrity, quality, and documentation.
+Optimization of existing analytical solutions.
+Leading small size teams of engineers and being a role model.
+
+Our requirements:
+Our requirements
+2+ years of experience delivering complex data warehouse / data lake / business intelligence solutions.
+1+ years of experience working with cloud services (Azure / GCP / AWS).
+Knowledgeable in Python.
+Experience in SQL and data analysis, knowledge of relational databases (preferably SQL Server, PostgreSQL).
+Knowledge of public cloud architecture, security, networking concepts and best practices (MS Azure preferred).
+Knowledge of DWH data modeling practices and ETL/ELT development.
+Conceptual and analytical skills.
+Optional
+Experience with Apache Spark or Databricks platform.
+Experience with Azure DevOps environment.
+Experience with Apache Airflow.
+
+Technologies we use:
+Technologies we use
+Expected
+Microsoft Azure
+Google Cloud Platform
+AWS
+Python
+SQL
+Optional
+PostgreSQL
+Microsoft SQL Server
+Apache Spark
+Databricks
+Azure DevOps
+Apache Airflow
+----------------------------------------
+
+
+URL: https://www.pracuj.pl/praca/it-analyst-warszawa-dobra-40,oferta,1004250519?s=fbdeec28&searchId=MTc1NTI3ODkzNDUxNy45Mg==
+Job Name 
+IT Analyst
+Company name 
+Aion Bank (UniCredit Group)About the company
+Salary 
+(not found)
+About the project:
+About the project
+We are currently looking for a IT Analyst ready to join our adventure, share our ambition and help shape the future of digital banking.
+Temporary work until the end of the year.
+100% remote work.
+
+Your responsibilities:
+Your responsibilities
+As an IT Analyst you will be responsible for designing and documenting new features based on input data from business owners
+Having hands-on experience with SQL, UML, BPMN you will be translating business requirements into technical documentation used by developers
+Your role is also about being able to pull and analyse data from various sources like SQL Databases, Big Query, CSV’s, etc. to extract valuable information
+If you are a team player who is passionate about solving problems, making things well explained and documented, someone who can use data to answer questions, someone who is known for thinking creatively and has strong analytical skills, then we’ve got a great role for you.
+
+Our requirements:
+Our requirements
+Minimum 3 years of experience as an IT Analyst gained in financial institutions
+Experience from work with software engineers and testers
+Ability to prepare technical requirements based on business input
+Knowledge of analytical artefacts: process modelling, user requirements documentation, functional requirements, state diagrams, examples of use case scenarios
+Experience from using UML, BPMN, SQL
+Knowledge of REST API, Postman tool or similar is a must have
+Curiosity to go beyond own expertise domain and appetite to learn new things and approaches from others
+Collaborative mindset is inevitable as you will be part of a team
+Polish and English languages are a must
+
+Technologies we use:
+Technologies we use
+Expected
+UML
+BPMN
+SQL
+----------------------------------------
+
+
+URL: https://www.pracuj.pl/praca/data-engineer-katowice-uniwersytecka-13,oferta,1004268376?s=fbdeec28&searchId=MTc1NTI3ODkzNDUxNy45Mg==
+Job Name 
+Data Engineer
+Company name 
+Sopra Steria Polska Sp. z o.o.About the company
+Salary 
+7 000 – 11 000 zł
+gross / mth. | contract of employment
+About the project:
+About the project
+We are looking for Data Engineer to join Sopra Steria team for a client in the automotive sector. You will work in an industrial, stable environment in multinational team (Germany, Poland) for a major automotive manufacturer.
+Tech Stack on the project:
+• Backend: Python, Spark, Terraform, AWS Services: Athena(SQL), Glue, S3, IAM, Lambda
+Frontend: Tableau
+• Databases: Oracle
+• Knowledge repository: Confluence
+• Version control systems: GitHub
+
+Your responsibilities:
+Your responsibilities
+You will work alongside a team of developers and data engineers. Majority of tasks will correspond to data engineering and data infrastructure. They range from creation of a workflow along with its jobs, through maintenance and debugging of several pipelines and other data infrastructure parts, migration to or update of AWS services, to regression testing or automation of repetitive activities.
+During your tasks, you will work both alone and in cooperation with another data engineers. You will be responsible for what you code/develop/automate. As a data engineer working in IaC environment, you will also review code of other colleagues.
+
+Our requirements:
+Our requirements
+Minimum 1 year of experience in data engineering
+English level: B2
+EU citizenship
+Good communication Skills
+Proficiency in Python
+Hands-on experience with SQL and ability to write complex queries
+Basic knowledge of data related AWS Services
+Optional
+Knowledge of bash
+Drawing basic diagrams
+Higher education
+Certifications
+
+Technologies we use:
+Technologies we use
+Optional
+Bash
+----------------------------------------
+
+
+URL: https://www.pracuj.pl/praca/bi-project-manager-sap-bw-to-power-bi-migration-warszawa,oferta,1004275876?s=fbdeec28&searchId=MTc1NTI3ODkzNDUxNy45Mg==
+Job Name 
+BI Project Manager – SAP BW to Power BI Migration
+Company name 
+CRESTT sp. z o.o.About the company
+Salary 
+(not found)
+About the project:
+About the project
+Stanowisko: BI Project Manager – SAP BW to Power BI Migration
+Lokalizacja: zdalnie
+Długość kontraktu: do końca grudnia 2025 z możliwością przedłużenia do czerwca 2026 i dalej
+Opis stanowiska:
+Dla naszego klienta z sektora dóbr konsumpcyjnych (FMCG), realizującego globalną transformację systemów raportowych i danych, poszukujemy osoby na stanowisko BI Project Managera odpowiedzialnego za migrację danych i raportowania z SAP BW/Navision do Power BI.
+Rola obejmuje pełną odpowiedzialność za delivery projektu BI, w tym zarządzanie dostawcami, harmonogramami i jakością wdrożenia – w ramach międzynarodowego programu transformacyjnego.
+
+Your responsibilities:
+Your responsibilities
+Zarządzanie projektem migracji danych i raportowania z SAP BW/Navision do Power BI
+Tworzenie planów projektu, zarządzanie harmonogramem, ryzykiem, budżetem
+Koordynacja działań z wewnętrznymi zespołami danych, IT, biznesu oraz zewnętrznymi dostawcami
+Nadzór nad jakością dostarczanych rozwiązań (audyt, zgodność, bezpieczeństwo)
+Raportowanie statusów i postępów projektu do grupy steeringowej
+Zarządzanie zespołem 6–10 osób oraz współpraca z integratorami systemów
+
+Our requirements:
+Our requirements
+Min. 10 lat doświadczenia w zarządzaniu projektami IT/Data, w tym min. 3 lata w roli Delivery/Program Managera
+Doświadczenie w projektach BI / DWH (mile widziane: migracje SAP BW, Power BI, Navision)
+Znajomość metodyk zarządzania projektami – Agile i Waterfall
+Doświadczenie w pracy z vendorami, integratorami i zespołami wielofunkcyjnymi
+Certyfikaty: CSM, PMI-ACP, PMP lub równoważne – mile widziane
+Bardzo dobra znajomość języka angielskiego
+
+Technologies we use:
+Technologies we use
+Expected
+SAP BW
+PowerBI
+----------------------------------------
+
+
+URL: https://www.pracuj.pl/praca/servicenow-data-lead-wroclaw,oferta,1004267476?s=fbdeec28&searchId=MTc1NTI3ODkzNDUxNy45Mg==
+Job Name 
+ServiceNow Data Lead
+Company name 
+Be in ITO firmie
+Salary 
+25 000 zł
 brutto / mies. | umowa o pracę
 About the project:
 O projekcie
-W Almarise rozwijamy wiele aplikcji, w tym nasz nowy produkt: Apptime – nowoczesną aplikację webową do kompleksowego zarządzania czasem pracy, zespołami i projektami. Apptime integruje się z Jira i wspiera zespoły IT oraz usługowe w planowaniu, rozliczaniu i analizie pracy.
-Tworzymy rozwiązanie dostępne zarówno w modelu chmurowym (multitenancy), jak i on-premises, co stawia przed nami ciekawe wyzwania inżynierskie i zapewnia dużą różnorodność w testowaniu.
+Współpraca z polskim departamentem IT międzynarodowej firmy z branży retail.
 
 Your responsibilities:
 Twój zakres obowiązków
-Planowanie i realizacja testów manualnych oraz automatycznych aplikacji Apptime.
-Reprodukowanie błędów zgłaszanych przez klientów oraz weryfikacja ich naprawy.
-Projektowanie scenariuszy i przypadków testowych – również testów regresyjnych.
-Prowadzenie testów wydajnościowych i bezpieczeństwa (JMeter).
-Tworzenie i utrzymywanie testów automatycznych w Playwright i Selenium.
-Współpraca z zespołem programistów, analityków i projektantów UX.
-Tworzenie dokumentacji testowej i systemowej w języku polskim i angielskim.
+Zarządzanie i utrzymanie danych w ServiceNow Foundation oraz CMDB, dostarczanie praktycznych analiz danych w całej platformie ServiceNow, wspierając podejmowanie świadomych decyzji w organizacji infrastruktury globalnej.
+Monitorowanie i raportowanie jakości danych dotyczących infrastruktury, usług i podstawowych danych w ServiceNow.
+Utrzymywanie artefaktów danych i procesów w ServiceNow, w tym stron internetowych, dokumentów, szablonów, witryn Teams/SharePoint itp.
+Zapewnienie ładu i kontroli nad procesami zarządzania danymi, aby były przestrzegane w sposób zgodny z regulacjami wspierającymi operacje i projekty.
+Odpowiedzialność za zarządzanie jakością danych dotyczących infrastruktury i usług w repozytoriach takich jak ServiceNow, Lean IX. Ocena wpływu nowych projektów i wymagań na jakość danych oraz odpowiednie zarządzanie nimi.
+Projektowanie i utrzymywanie pulpitów nawigacyjnych, raportów oraz analiz, wykorzystując ServiceNow Performance Analytics, dane CMDB i inne moduły ITOM/ITSM.
+Pełnienie roli lidera w obszarze danych w zespole wsparcia platformy ServiceNow.
+Kierowanie działaniami związanymi z danymi w zespole wsparcia oraz w szerszym zakresie biznesowym.
+Przyjmowanie, zarządzanie i nadzorowanie rozwiązywania eskalacji technicznych.
+Zapewnienie integralności systemu podczas jego rozbudowy i aktualizacji.
+Zarządzanie interesariuszami w całej organizacji, jednostkach biznesowych i regionach oraz utrzymywanie ładu danych na platformie.
+Ciągłe doskonalenie usług oraz promowanie adopcji danych CMDB i Foundation zgodnie z CSDM we wszystkich zespołach.
 
 Our requirements:
 Nasze wymagania
-Doświadczenie komercyjne jako tester aplikacji webowych.
-Znajomość narzędzi: Playwright, Selenium, JMeter.
-Umiejętność reprodukowania błędów i tworzenia testów regresyjnych.
-Znajomość zagadnień bezpieczeństwa aplikacji (np. OWASP Top 10).
-Umiejętność tworzenia czytelnej dokumentacji technicznej i testowej.
-Dokładność, samodzielność i proaktywność.
-Umiejętność pracy zespołowej i dobrej komunikacji z zespołem technicznym.
-Dobra znajomość języka angielskiego (min. poziom B2).
-Gotowość do pracy w trybie hybrydowym (1–2 dni z biura tygodniowo).
+Doświadczenie w obszarze ServiceNow, ze specjalizacją w zarządzaniu danymi podstawowymi oraz IT Operations Management (Discovery, CMDB, Service Mapping, Event Management).
+Doświadczenie w modelowaniu danych, wizualizacji i tworzeniu praktycznych analiz.
+Znajomość konfiguracji i architektury infrastruktury obejmującej centra danych on-premises, chmurę, sieć oraz narzędzia IT Security. Rozległa wiedza o najlepszych praktykach w ITSM, zarządzaniu konfiguracją, architekturze korporacyjnej i zarządzaniu danymi. Zarządzanie wydajnością procesów i doskonalenie KPI.
+Znajomość modelu ServiceNow CSDM. Umiejętność przekształcania skomplikowanych wymagań biznesowych w rozwiązania techniczne.
+Zarządzanie relacjami z kluczowymi interesariuszami.
+Doświadczenie w zarządzaniu dostawcami zewnętrznymi. Podstawowa znajomość architektury IT w międzynarodowym środowisku korporacyjnym.
+Wykształcenie w obszarze IT lub porównywalne doświadczenie zawodowe.
+Znajomość języka angielskiego na poziomie B2 lub C1.
+Gotowość do odwiedzin biura we Wrocławiu raz lub dwa razy na miesiąc.
+Dla osób mniej doświadczonych, możliwość rozwoju w kierunku Mid/Senior/Lead.
 Mile widziane
-Znajomość CI/CD (GitHub Actions, GitLab CI).
-Podstawowa znajomość Java lub TypeScript.
-Umiejętność pisania promptów do systemów LLM
-Znajomość SQL i umiejętność korzystania z baz danych
-Znajomość narzędzi Atlassian
-Dociekliwość i umiejętność "szukania dziury w całym"
-Doświadczenie w analizie logów i pracy z narzędziami do monitoringu aplikacji.
+Szybka dostępność (ASAP), lecz akceptowalny jest nawet 3-miesięczny okres wypowiedzenia.
 
 Technologies we use:
 Technologie, których używamy
 Wymagane
-Playwright
-Selenium
-JMeter
-Mile widziane
-Java
-TypeScript
-Python
+ServiceNow
+System operacyjny
 ----------------------------------------
+
+
+URL: https://www.pracuj.pl/praca/delivery-analyst-us-time-gdansk-aleja-grunwaldzka-472b,oferta,1004260891?s=fbdeec28&searchId=MTc1NTI3ODkzNDUxNy45Mg==
+Job Name 
+Delivery Analyst ( US time)
+Company name 
+Acxiom Global Service Center Polska sp. z o. oAbout the company
+Salary 
+7 000 – 10 100 zł
+gross / mth. | contract of employment
+About the project:
+About the project
+This role covers USA business day, which means working between 15-23 or 16-24 polish time. This person can work remotely full time from any location. ..
+Delivery Analyst delivers data, data products, and information that drive our client’s multi-channel marketing capabilities. They understand the details of our client’s data and Acxiom’s products to ensure that our clients and / or third-party vendors receive clean, enhanced, segmented, ready-to-market data. Delivery Analysts strive daily to improve quality and adhere to standard processes and procedures. They work with clients and / or third-party vendors to begin to understand requirements and escalate issues with a focus on maintaining a seamless process flow. Analyzes, troubleshoots and modifies/changes processes and data to ensure efficient delivery of services to Acxiom clients. Maintains a broad understanding of Acxiom's processing and product capabilities and utilizes that understanding to optimize delivery of services. Mentors less experienced team members.
+
+Your responsibilities:
+Your responsibilities
+Point-of-contact for clients with business solution definition through campaign management and business intelligence tools and/or processes
+Audit post-production changes to ensure service level agreement compliance
+Execute complex campaigns which may include, but is not limited to, the review of campaign specifications, working with clients to validate and obtain sign-off of client deliverables and dynamic campaign execution
+Develop, maintain, and improve client relationship through increased client communications. May have campaign and/or reporting specialty and may be point of contact for some client campaigns
+Ensure compliance with established procedures, project requirements, and service level agreements through audits
+Provide consultation, support, communication and training to teams and clients on campaign management tools and / or processes
+Provide issue resolution which may include, but is not limited to, tool errors that require escalation and data integrity issues
+Responsible for application administration (extraction). Identify, recommend, and document code changes or makes appropriate code changes. Construct and/or enhance data documentation as needed. Change processes for clients through established change management procedures
+Investigate and advise clients on potential processing efficiencies, redundancies and/or optimum use of data. Drive and share best practices, adoption of standards and lessons learned with internal Acxiom teams
+Design and implement processes that utilize automation in data onboarding and auditing
+
+Our requirements:
+Our requirements
+Self-starter with attention to detail
+Ability to effectively communicate with clients and internal stakeholders
+Problem-solving skills
+Intermediate to proficient experience with SQL
+Multitasking skills
+Ability to prioritize daily responsibilities
+Bachelor’s degree from a four-year college or university or minimum 2 years relevant industry experience in Information Technology
+Optional
+Experience using SAS
+Experience in data processing and data integration
+Understanding of relational database design
+Experience with Campaign Management Tools
+File Transfer Protocols
+Jira
+Knowledge of Acxiom products
+
+Technologies we use:
+Technologies we use
+Expected
+SQL
+Excel
+Optional
+SAS
+Jira
+Operating system
+----------------------------------------
+
+
+URL: https://www.pracuj.pl/praca/data-engineer-warszawa-woloska-24,oferta,1004289412?s=fbdeec28&searchId=MTc1NTI3ODkzNDUxNy45Mg==
+Job Name 
+Data Engineer
+Company name 
+Inetum PolskaAbout the company
+Salary 
+(not found)
+About the project:
+About the project
+You will be responsible for resolving user incidents, optimizing database performance, and implementing small-scale developments based on user requirements. This is a hands-on role requiring strong technical expertise and proactive problem-solving.
+
+Your responsibilities:
+Your responsibilities
+Incident Management: Investigate and resolve user-reported issues related to data quality, performance, and functionality. Coordinate with other IT support teams as needed.
+Development & Enhancements: Implement small-scale changes and improvements based on business requirements.
+Database Optimization: Analyze and improve data flow and response times to ensure system efficiency.
+
+Our requirements:
+Our requirements
+3–5 years of experience in IT support or development roles.
+Strong expertise in SQL Server:
+Views, functions, stored procedures, jobs.
+System administration tasks.
+Proficient in SSIS (packages, variables, etc.).
+Good working knowledge of SSAS and DAX.
+Experience with SQL and SSAS database migration.
+Familiarity with GitHub for version control.
+
+Technologies we use:
+Technologies we use
+Expected
+Microsoft SQL Server
+SQL
+GitHub
+Operating system
+----------------------------------------
+
+
+URL: https://www.pracuj.pl/praca/senior-ai-data-engineer-warszawa-woloska-24,oferta,1004289411?s=fbdeec28&searchId=MTc1NTI3ODkzNDUxNy45Mg==
+Job Name 
+Senior AI Data Engineer
+Company name 
+Inetum PolskaAbout the company
+Salary 
+(not found)
+About the project:
+About the project
+We are looking for a Senior AI Data Engineer to join an exciting project for our client in the telecommunications sector. This is a Technical Leader role, ideal for someone passionate about AI innovation and eager to shape the future of customer care platforms.
+
+Your responsibilities:
+Your responsibilities
+Lead the development and implementation of AI-powered features for a Customer Care platform.
+Design and deploy Machine Learning and NLP models to automate customer inquiries.
+Collaborate with DevOps and cloud architects to ensure a high-performance, scalable, and secure Azure-based architecture.
+Optimize AI models to enhance customer experience.
+Integrate Conversational AI, chatbots, and language models into the platform.
+Evaluate emerging technologies and best practices in Artificial Intelligence.
+Mentor and guide a team of AI/ML developers.
+
+Our requirements:
+Our requirements
+Degree in Computer Science, Data Science, Artificial Intelligence, or a related field.
+Several years of experience in AI and Machine Learning development, preferably in Customer Care solutions.
+Strong proficiency in Python and NLP frameworks.
+Hands-on experience with Azure AI services (e.g., Azure Machine Learning, Cognitive Services, Bot Services).
+Solid understanding of cloud architectures and microservices on Azure.
+Experience with CI/CD pipelines and MLOps.
+Excellent leadership and communication skills.
+Analytical mindset with strong problem-solving abilities.
+Polish and English at a minimum B2 level.
+
+Technologies we use:
+Technologies we use
+Expected
+Python
+NLP
+Microsoft Azure
+MLOps
+Operating system
+----------------------------------------
+
+
+URL: https://www.pracuj.pl/praca/data-engineer-gdansk-aleja-grunwaldzka-472b,oferta,1004277460?s=fbdeec28&searchId=MTc1NTI3ODkzNDUxNy45Mg==
+Job Name 
+Data Engineer
+Company name 
+Acxiom Global Service Center Polska sp. z o. oAbout the company
+Salary 
+11 000 – 17 500 zł
+gross / mth. | contract of employment
+About the project:
+About the project
+Experienced Data Engineer with a strong background in working with large sets of data, data warehousing tools, and software development methodology. In this role, you’ll participate directly in designing, building, and maintaining our data infrastructure, data products, and collaborating with operations and product management teams to ensure business success and pursue new product opportunities.
+
+Your responsibilities:
+Your responsibilities
+Design, develop, and maintain scalable data workflows and pipelines using big data technologies, including Map/Reduce, Spark, Databricks and Acxiom proprietary tools
+Collaborate with data analysts, product managers, and other stakeholders to understand and develop product requirements
+Tune workflows to enhance processing efficiency and optimize use of resources
+Write well-crafted, tested, readable, and maintainable code
+Participate in code reviews to ensure code quality and distribute knowledge
+Drive innovation. Stay up to date with advancements in data engineering tools, cloud services, and generative AI; seeking opportunities to drive leaps in value creation for Acxiom’s clients
+
+Our requirements:
+Our requirements
+Bachelor's (or better) degree in Computer Science, Engineering, Information Systems, or a related field
+1 year of prior experience in data engineering, Databricks experience preferred.
+Proficiency in Python / PySpark
+Proficiency with big data technologies including SQL, Spark, Hadoop
+Experience designing data models to optimize storage and retrieval
+Experience working with AWS based solutions
+Experience with CICD (shift left) development practices
+Strong problem-solving skills and a commitment to excellence
+Strong written and oral communication skills with an ability to work collaboratively in a fast-paced, team-oriented environment
+Optional
+Prior experience with IaC and Terraform
+Prior experience developing in Scala
+ML skills and experience deploying AI models into solution
+
+Technologies we use:
+Technologies we use
+Expected
+SQL
+Python
+PySpark
+Hadoop
+Spark
+AWS
+Databricks
+CICD
+Optional
+Terraform
+Scala
+laC
+Operating system
+----------------------------------------
+
+
+URL: https://www.pracuj.pl/praca/senior-salesforce-developer-warszawa,oferta,1004254539?s=fbdeec28&searchId=MTc1NTI3ODkzNDUxNy45Mg==
+Job Name 
+Senior Salesforce Developer
+Company name 
+ITDS Polska Sp. z o.o.About the company
+Salary 
+21 000 – 23 100 zł
+net (+ VAT) / mth. | B2B contract
+About the project:
+About the project
+As a Senior Developer, you will be working for our client, a leading bank and financial institution offering a wide range of services to individuals, small businesses, and large corporations.You will join a team responsible for implementing mechanisms on the Salesforce platform to support complex business processes. The project focuses on building efficient and scalable components using Apex, LWC, and integrations with external systems. This is an ideal role for someone who combines deep technical knowledge with strong analytical thinking in designing solutions.
+Join us, and build scalable solutions that power global finance!
+Location: Warszawa
+
+Your responsibilities:
+Your responsibilities
+Analyzing business and technical requirements
+Designing and implementing solutions on the Salesforce platform
+Optimizing existing processes for performance and platform limits
+Creating components using Apex, LWC, and Aura
+Implementing integrations with external systems using Rest API and RMQ
+Collaborating with teams in an Agile methodology
+Using monitoring tools such as Zabbix and Elastic
+Building complex SOQL and SQL queries
+Supporting deployments and solution maintenance in Openshift environments
+Providing technical support to the development team
+
+Our requirements:
+Our requirements
+Have at least 5 years of experience working with the Salesforce platform
+Have excellent knowledge of Apex, LWC, and Aura syntax
+Have experience with the Sales, Service, Financial Service, and Experience modules
+Understand microservices architecture and integrations based on Rest API and RMQ
+Have experience with ETL tools in the Salesforce context
+Hold Salesforce Platform Developer I or II and JavaScript Developer I certifications
+Are comfortable working with SOQL and SQL queries (Oracle, Postgres, Teradata)
+Thrive in a team environment working within Agile frameworks
+Can analyze and optimize business processes
+Have experience using monitoring systems such as Zabbix and Elastic
+Optional
+Knowledge of Java or Python
+Experience managing configurations in Openshift environments
+Understanding of design patterns in CRM system architecture
+Ability to create technical and design documentation
+Familiarity with CI/CD tools integrated with Salesforce
+English language proficiency that enables effective communication
+Ability to conduct code reviews
+Experience working on projects in the financial sector
+Ability to quickly acquire new technical knowledge
+Understanding of DevOps practices
+
+Technologies we use:
+Technologies we use
+Expected
+Salesforce
+JavaScript
+SQL
+Oracle
+PostgreSQL
+Grafana
+Zabbix
+Elasticsearch
+Optional
+Java
+Python
+OpenShift
+Operating system
+----------------------------------------
+
+
+URL: https://www.pracuj.pl/praca/data-modeler-data-warehousing-insurance-industry-warszawa-pulawska-2,oferta,1004259683?s=fbdeec28&searchId=MTc1NTI3ODkzNDUxNy45Mg==
+Job Name 
+Data Modeler - Data Warehousing (Insurance industry)
+Company name 
+SQUARE ONE RESOURCES sp. z o.o.About the company
+Salary 
+20 000 – 27 000 zł
+gross / mth. | contract of employment
+About the project:
+About the project
+The Data Modeler will be responsible for designing, implementing, and maintaining data models that support data warehousing solutions within the insurance domain.
+The team works on Azure, but experience with other cloud platforms is also acceptable.
+
+Your responsibilities:
+Your responsibilities
+Design and develop conceptual, logical, and physical data models to support data warehousing initiatives specific to insurance operations.
+Collaborate with business analysts, architects, and IT teams to understand insurance business requirements and translate them into data models.
+Perform system analysis to identify, analyze, and extract the right data from source systems, ensuring the data models are populated with accurate and relevant data.
+Optimize data models for performance, scalability, and maintainability, focusing on insurance data such as policy, claims, underwriting, and customer data.
+Implement data modeling standards and best practices tailored to the insurance industry.
+Conduct data analysis and profiling to understand data quality and integrity, particularly in the context of insurance data.
+Conduct testing to validate data models, ensuring they meet business requirements and performance criteria, including verifying data accuracy, consistency, and integrity within the data warehousing environment.
+Work with ETL developers to ensure the accurate implementation of data models in data warehousing solutions.
+Maintain and update data models as insurance business requirements evolve.
+Document data models and metadata for reference and training purposes.
+Participate in data governance and data management activities to ensure compliance with organizational policies and industry regulations.
+
+Our requirements:
+Our requirements
+Bachelor’s degree in Computer Science, Information Systems, or a related field. Master’s degree preferred.
+Proven experience in data modeling and data warehousing, with at least 2 years of experience in a similar role, preferably within the insurance industry.
+Strong understanding of data modeling techniques, including normalization, denormalization, star schema, and snowflake schema.
+Experience with data modeling tools such as ERwin, Sparx Enterprise Architect, or similar.
+Proficiency in SQL and database management systems (e.g., SQL Server, Oracle).
+Familiarity with ETL processes and tools (e.g., Azure Data Factory, Informatica, Talend).
+Knowledge of data governance and data quality principles.
+Excellent analytical and problem-solving skills, with the ability to perform system analysis to identify and extract relevant data.
+Experience in developing and executing test plans to validate data models.
+Strong communication skills, with the ability to explain complex data concepts to non-technical stakeholders.
+Optional
+Domain knowledge in insurance, including familiarity with policy administration systems, claims processing, underwriting, and regulatory requirements.
+Experience with cloud-based data solutions (e.g., Azure, AWS).
+Experience with data visualization tools (e.g., Power BI, Tableau).
+
+Technologies we use:
+Technologies we use
+Expected
+SQL
+Optional
+Azure Data Factory
+Informatica
+Talend
+Tableau
+Microsoft Power BI
+----------------------------------------
+
+
+URL: https://www.pracuj.pl/praca/data-analyst-gdansk-aleja-grunwaldzka-472b,oferta,1004243041?s=fbdeec28&searchId=MTc1NTI3ODkzNDUxNy45Mg==
+Job Name 
+Data Analyst
+Company name 
+Acxiom Global Service Center Polska sp. z o. oAbout the company
+Salary 
+8 000 – 10 700 zł
+gross / mth. | contract of employment
+About the project:
+About the project
+In this role, you will design and maintain scalable frameworks to support data integration, client migrations, and partner onboarding. You will be responsible for building and optimizing data crosswalks, executing ID testing to assess migration impact, and evaluating new data sources to improve data coverage and consistency. Your work will directly contribute to the quality and performance of global data products and support data-driven decisions across teams. This position requires strong analytical skills, attention to data quality, and the ability to collaborate with cross-functional stakeholders in a fast-paced, results-oriented environment.
+
+Your responsibilities:
+Your responsibilities
+Build and maintain centralized 3rd party data crosswalks for Interact integration and syndication partners
+Create and optimize Acxiom digital revenue reporting processes
+Analyze data sources to improve global InfoBase, including B2B attribute testing
+Test Identity information and deliver impact reports for client migrations
+Design and implement product metrics dashboards for Identity and digital products
+Maintain and enhance prebuilt flows for Hygiene and Referential Identity use cases
+Centralize Identity data flows to improve efficiency and solution effectiveness
+
+Our requirements:
+Our requirements
+SQL, Snowflake, Databricks, Excel fluency
+ETL activities across multiple platforms
+Ability to interact with Identity products
+Ability to demonstrate critical thinking and enthusiasm for translating data into actionable insight to generate consistently accurate information to vendors/partners
+Understanding of data repositories and metadata management
+Strong organizational and problem-solving skills
+Good command of English, written and spoken
+
+Technologies we use:
+Technologies we use
+Expected
+SQL
+ETL
+Excel
+Snowflake Data Cloud
+Databricks
+Operating system
+----------------------------------------
+
+
+URL: https://www.pracuj.pl/praca/architekt-ferryt-warszawa-grzybowska-81,oferta,1004287615?s=fbdeec28&searchId=MTc1NTI3ODkzNDUxNy45Mg==
+Job Name 
+Architekt Ferryt
+Company name 
+Bank Polskiej Spółdzielczości SAO firmie
+Salary 
+(not found)
+About the project:
+(not found)
+
+Your responsibilities:
+Twój zakres obowiązków
+przygotowujesz koncepcje architektury rozwiązań na platformie Ferryt
+prowadzisz analizę funkcjonalną i techniczną rozwiązań
+dekomponujesz złożone zagadnienia architektoniczne
+projektujesz integracje platformy Ferryt z innymi systemami
+określasz główne źródła danych i planujesz rozwój zbiorów danych
+szacujesz wpływ zmian na architekturę IT
+tworzysz i aktualizujesz dokumentacje rozwiązań architektonicznych
+współpracujesz z analitykami procesowymi, konfiguratorami ferrytowymi, specjalistami IT i dostawcą platformy Ferryt
+planujesz wykorzystanie poszczególnych modułów platformy Ferryt
+projektujesz i konfigurujesz procesy biznesowe
+
+Our requirements:
+Nasze wymagania
+masz 3-letnie doświadczenie w pracy na podobnym stanowisku w branży finansowej
+masz doświadczenie w digitalizacji i automatyzacji procesów na platformie Ferryt
+biegle znasz architekturę platformy Ferryt, moduły i możliwości ich wykorzystania w rozwiązaniach klasy workflow
+potrafisz budować złożone rozwiązania architektoniczne
+bardzo dobrze znasz relacyjne bazy danych
+znasz: C#, HTML i CSS
+umiesz wykorzystywać metody integracji aplikacji (API REST, SOAP)
+posiadasz wykształcenie wyższe, preferowane techniczne (informatyka, matematyka lub pokrewne)
+formułujesz koncepcje projektowanych rozwiązań z wykorzystaniem diagramów (BPMN 2.0)
+projektujesz/programujesz testy automatyczne
+Mile widziane
+doświadczenie w pracy ze zwinnymi metodykami projektowymi
+umiejętność budowania aplikacji zgodnie z najlepszymi praktykami UX/UI
+znajomość zagadnień z obszaru bankowości
+
+Technologies we use:
+Technologie, których używamy
+Wymagane
+Ferryt
+C#
+CSS
+HTML
+System operacyjny
+----------------------------------------
+
+
+URL: https://www.pracuj.pl/praca/it-analyst-supply-chain-warszawa-cybernetyki-9,oferta,1004287280?s=fbdeec28&searchId=MTc1NTI3ODkzNDUxNy45Mg==
+Job Name 
+IT Analyst - Supply Chain
+Company name 
+LEEWRANGLER POLAND SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄAbout the company
+Salary 
+(not found)
+About the project:
+(not found)
+
+Your responsibilities:
+Your responsibilities
+As a Supply Chain Analyst, you’ll be the bridge between IT and business, working with global teams to design, implement, and support systems that drive efficiency across:
+• Forecasting, demand & supply planning
+• Replenishment and logistics
+• Product lifecycle management (PLM)
+• Vendor-managed inventory (VMI)
+You’ll also:
+• Collaborate with stakeholders to understand business needs
+• Lead system implementation and testing
+• Provide day-to-day application support and training
+• Manage projects and cross-functional communication
+• Support global users, including occasional off-hours
+• Ensure compliance with data security and change control policies
+
+Our requirements:
+Our requirements
+5+ years of experience in supply chain and IT systems
+Strong knowledge of forecasting, demand planning, and logistics
+Proficiency in SQL, Smartsheet, and ideally SAP or Logility
+Experience in fashion, apparel, or footwear retail is a plus
+Bachelor’s degree in business, IT, or a related field
+Excellent communication and stakeholder management
+Analytical mindset with strong troubleshooting skills
+Ability to work cross-functionally and across regions
+Project management and influencing skills
+Adaptability in a dynamic, global team
+
+Technologies we use:
+Technologies we use
+Operating system
+----------------------------------------
+
+
+URL: https://www.pracuj.pl/praca/solution-developer-gdansk-aleja-grunwaldzka-472b,oferta,1004242449?s=fbdeec28&searchId=MTc1NTI3ODkzNDUxNy45Mg==
+Job Name 
+Solution Developer
+Company name 
+Acxiom Global Service Center Polska sp. z o. oAbout the company
+Salary 
+(not found)
+About the project:
+(not found)
+
+Your responsibilities:
+(not found)
+
+Our requirements:
+(not found)
+
+Technologies we use:
+(not found)
+----------------------------------------
+
+

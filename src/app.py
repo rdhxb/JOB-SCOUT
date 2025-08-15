@@ -11,16 +11,23 @@ url = ask()
 TXT_PATH = "data/offers/offers.txt"
 
 def append_to_txt(data):
+
+    with open(TXT_PATH, "r", encoding="utf-8") as f:
+         if data["url"] in f.read():
+            print(f"Skipping (already in file): {data['url']}")
+            return
+
     """Append one offer’s data to the text file."""
     with open(TXT_PATH, "a", encoding="utf-8") as f:
         f.write(f"URL: {data['url']}\n")
-        f.write(f"Name of a company \n{data['name']}\n")
+        f.write(f"Job Name \n{data['name']}\n")
+        f.write(f"Company name \n{data['company_name']}\n")
         f.write(f"Salary \n{data['salary']}\n")
         f.write(f"About the project:\n{data['about_project']}\n\n")
         f.write(f"Your responsibilities:\n{data['responsibilities']}\n\n")
         f.write(f"Our requirements:\n{data['requirements']}\n\n")
         f.write(f"Technologies we use:\n{data['technologies']}\n")
-        f.write("-" * 40 + "\n")
+        f.write("-" * 40 + "\n\n\n")
 
 # --- OPTIONS ---
 chrome_options = Options()
@@ -114,15 +121,32 @@ def extract_offer_sections():
 
     data = {
         "url": driver.current_url,
-        "name": driver.find_element(By.CLASS_NAME, 'oheatec').text,
-        "salary": driver.find_element(By.CLASS_NAME, 's120d0xa').text,
+        "name": "(not found)",
+        "company_name": "(not found)",
+        "salary": "(not found)",
         "about_project": "(not found)",
         "responsibilities": "(not found)",
         "requirements": "(not found)",
         "technologies": "(not found)",
     }
-# vuj7wmi
-# s120d0xa
+
+    # Job name
+    try:
+        data["name"] = driver.find_element(By.CLASS_NAME, 'oheatec').text.strip()
+    except:
+        pass
+
+    # company name 
+    try:
+        data["company_name"] = driver.find_element(By.CLASS_NAME, 'c4wjx6a').text.strip()
+    except:
+        pass
+
+    # Salary (only if exists)
+    try:
+        data["salary"] = driver.find_element(By.CLASS_NAME, 's120d0xa').text.strip()
+    except:
+        pass
 
     for section in sections:
         heading = ""
@@ -150,7 +174,7 @@ def extract_offer_sections():
 
 if __name__ == '__main__':
     # clear file before starting
-    open(TXT_PATH, "w", encoding="utf-8").close()
+    # open(TXT_PATH, "w", encoding="utf-8").close()
 
     driver.get(url)
     dismiss_overlays()   
@@ -188,8 +212,4 @@ if __name__ == '__main__':
 
     print(f"Done. All offers saved at: {TXT_PATH}")
 
-
-    # # Now we are inside the offer page → extract sections
-    # job_data = extract_offer_sections()
-    # for k, v in job_data.items():
-    #     print(f"\n--- {k} ---\n{v}\n")
+    driver.close()
