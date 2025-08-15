@@ -65,10 +65,8 @@ def set_row_height(sheet, start_row, end_row, height=200):
         }]
     })
 
-# Example: set row height for first 100 rows to 200 px
+# Example: set row height for first 100 rows to 35 px
 set_row_height(sheet, 2, 101, 35)  # row 1 is header, so start from row 2
-
-
 
 
 
