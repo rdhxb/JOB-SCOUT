@@ -1,96 +1,74 @@
-URL: https://www.pracuj.pl/praca/javascript-solidity-developer-defi-warszawa-gieldowa-5,oferta,1004259130?s=2934b176&searchId=MTc1NTI3MTAwMjcwMi4yNDkz
-Name of a company JavaScript / Solidity Developer (DeFi)
-About the project:
-O projekcie
-W ramach jednego z naszych głównych projektów, zajmujemy się budową rozwiązań z zakresu High Frequency Tradingu. Nasze algorytmy są wykorzystywane na wielu zcentralizowanych giełdach kryptowalut (CEX) pochodzących z aż sześciu kontynentów. Jesteśmy aktywnym uczestnikiem DEXów (Decentralized Exchange) oraz innych rozwiązań dziedziny z rozproszonych finansów (DeFi). Członkowie naszego zespołu, nierzadko pasjonaci technologii blockchain oraz kryptowalut, tworzą rozwiązania integrujące się z wieloma zdecentralizowanymi aplikacjami (dApp) jakimi jak Uniswap, Curve, TraderJoe, Balancer, Jupiter. W związku z szybkim rozwojem naszego zespołu poszukujemy do oddziału w Warszawie osób na stanowisko
-
-Your responsibilities:
-Twój zakres obowiązków
-W ramach projektu przyszły pracownik będzie miał możliwość:
-• rozwoju nowych funkcjonalności w systemie rozproszonym,
-• integracji z DEXam oraz innymi aplikacjami DeFi,
-• implementacji smart kontraktów odpowiedzialnych za dokonywanie transakcji,
-• dokładnego testowania oraz debugowania smart kontraktów,
-• optymalizacji istniejących rozwiązań w celu polepszenia naszej efektywności na rynku,
-• decydowania o użytych technologiach,
-• rozwiązywania problemów oraz proponowania własnych pomysłów, ponieważ wysoko cenimy samodzielność, kreatywność i otwartość na wdrażanie nowych rozwiązań naszych pracowników,
-• zdobywania wiedzy z branży tradingowej poprzez m.in. permanentną współpracę z quantami oraz traderami,
-• szybkiego rozwoju poprzez korzystanie z nowoczesnych technologii w środowisku pracy dalekim od skostniałej struktury i kultury korporacyjnej.
-
-Our requirements:
-Nasze wymagania
-Szukamy osób, które:
-• posiadają wykształcenie wyższe lub są w trakcie studiów,
-• pasjonują się tematyką DeFi oraz chcą się w niej rozwijać,
-• posiadają praktyczną wiedzę na temat JavaScript (ES6/TS) oraz bibliotek takich jak web3.js, ethers.js,
-• potrafią pisać czysty, testowalny kod,
-• znają podstawowe zagadnienia sieciowe oraz wielowątkowe,
-• znają wzorce projektowe i potrafią je optymalnie wykorzystywać,
-• posiadają wysoko rozwinięte zdolności analityczne, otwarty umysł oraz są gotowe do nieszablonowego myślenia,
-• chcą się rozwijać i chętnie współpracują w zespole,
-• znają język angielski na poziomie pozwalającym na swobodną komunikację,
-• interesują się lub chcą rozpocząć swoją karierę w obszarze tradingu na rynku kryptowalut,
-• potrafią tworzyć i testować smart kontrakty w języku Solidity lub Rust (mile widziane).
-
-Technologies we use:
-Technologie, których używamy
-Wymagane
-DeFi
-JavaScript
-web3.js
-ethers.js
-Mile widziane
-Solidity
-Rust
-System operacyjny
-----------------------------------------
-URL: https://www.pracuj.pl/praca/angular-frontend-developer-warszawa-aleja-niepodleglosci-69,oferta,1004275361?s=2934b176&searchId=MTc1NTI3MTAwMjcwMi4yNDkz
-Name of a company Angular Frontend Developer
+URL: https://www.pracuj.pl/praca/senior-react-native-engineer-with-native-ios-android-warszawa-prosta-20,oferta,1004247006?s=1aff9b5&searchId=MTc1NTI3MTc0OTMzOC4wODQ1
+Name of a company 
+Senior React Native Engineer with Native iOS/Android
+Salary 
+18 000 – 25 000 zł
+gross / mth. | contract of employment
 About the project:
 About the project
-We’re building a next-generation application for managing electric vehicle chargers, specifically focused on home charging for employees of B2B clients. The solution enables seamless cost reimbursement for home charging and ensures accurate settlement with the employer.
-You’ll join a small, agile, and highly collaborative team working on a modern tech stack to deliver a meaningful solution for a growing market.
+We’re a team of 65 passionate tech professionals in Warsaw, collaborating closely with colleagues in the UK. Our culture is built on innovation, knowledge sharing, and continuous improvement—and we're looking for talented engineers to join a team developing mobile products using React Native and TypeScript. If you enjoy working with clean architecture, modern technologies, and being part of a supportive team that learns from each other, we’d love to hear from you!
 
 Your responsibilities:
 Your responsibilities
-Develop and maintain a modern, scalable Angular frontend application (v18)
-Implement responsive and performant UI components based on business requirements
-Manage application state using Akita, NgRx, or Redux
-Write clean, well-structured, and well-tested code using TypeScript, RxJS, Jest, and Spectator
-Conduct thorough code reviews and provide constructive feedback to peers
-Collaborate closely with backend developers, architects, testers, PO, SM, and BAs to deliver end-to-end features
-Translate UX/UI designs and technical specifications into high-quality code
-Participate actively in daily stand-ups, sprint planning, reviews, and retrospectives
-Contribute to improving development workflows, code quality standards, and architectural decisions
+Develop and maintain mobile applications using React Native, React and TypeScript
+Frequently lead scoping of initiatives, consider boundaries and non-functional requirements
+Propose ideas, contribute to technology choices, and present solutions to the team
+Foster a culture of implementing commonly understood design patterns and processes
+Integrate with backend services via REST API and/or GraphQL
+Work with React Native’s new architecture, applying best practices for scalability and performance
+Write unit and integration tests using tools like Jest, Detox, and Testing Library
+Optimize the performance of mobile applications
+Implement and manage state management solutions (e.g., Redux, Mobx)
+Collaborate with backend teams and designers to ensure consistency and high-quality deliverables
+Strategically improve CI/CD processes and deployment strategies
+Troubleshoot complex technical issues and help scale mobile applications
+Actively participate in the Scrum process (stand-ups, retrospectives, and technology discussions).
 
 Our requirements:
 Our requirements
-At least 4 years of experience in frontend development
-Strong expertise with Angular (v13+)
-Proficient in TypeScript and RxJS
-Solid experience with state management libraries (Akita, NgRx, Redux)
-Strong unit testing practices (Jest, Spectator)
-Clean code mindset and attention to maintainable architecture
-Comfortable conducting in-depth code reviews
-Experience working in cross-functional agile teams
-Hands-on experience with documentation in JIRA/Confluence
-English and Polish proficiency at B2/C1 level or higher
-Residing in Poland required
+At least 5 years of experience working with React Native, React and TypeScript including enterprise-grade experience (experience with large app decomposition, layers separation, and scalable architecture for enterprise-level applications).
+Experience with architecture and design patterns.
+Familiarity with different styling solutions (StyleSheet, Styled Components, Unistyles).
+Efficient React Native debugging skills — ability to troubleshoot and resolve complex issues with React Native applications using debugging tools, logs, and error tracking.
+Practical knowledge of JavaScript and testing frameworks (Jest, Detox, Testing Library).
+Experience in Brownfield Development.
+Experience working with REST API and/or GraphQL.
+Understanding of state management patterns and solutions like Redux and Mobx.
+Knowledge of native iOS development (Swift, SwiftUI, Combine) and Android development (Kotlin). Proficiency in using native build tools like Xcode, Gradle, and Android Studio.
+C1-level proficiency in both English and Polish – you will use both languages in all aspects of your daily work
+Collaborative and communicative – you work well with others, share knowledge, and express ideas clearly.
+Solution-oriented and creative – you tackle challenges with practical, innovative solutions.
+Quality-driven with a continuous improvement mindset – you take pride in delivering clean, secure, and maintainable code while seeking ways to improve.
+Eager to learn and adapt – you embrace new ideas and grow with your team.
+Comfortable in Agile environments – you thrive in cross-functional collaboration and value constructive feedback.
+Optional
+Experience integrating mobile apps with external services.
+Experience with TurboModules and TurboComponents.
+Experience with accessibility (a11y) best practices in mobile apps, including WCAG compliance and keyboard navigation support.
+Experience with UX/UI design best practices.
 
 Technologies we use:
 Technologies we use
 Expected
+React Native
+React.js
 TypeScript
-Angular
-RxJS
+GraphQL
 Redux
-Optional
-Akita
-NgRx
-Jest
+Mobx
+Android
+iOS
+Xcode
+Gradle
+Android Studio
+Kotlin
 ----------------------------------------
-URL: https://www.pracuj.pl/praca/tester-aplikacji-webowych-warszawa-czerska-8-10,oferta,1004249209?s=2934b176&searchId=MTc1NTI3MTAwMjcwMi4yNDkz
-Name of a company Tester aplikacji webowych
+URL: https://www.pracuj.pl/praca/tester-aplikacji-webowych-warszawa-czerska-8-10,oferta,1004249209?s=1aff9b5&searchId=MTc1NTI3MTc0OTMzOC4wODQ1
+Name of a company 
+Tester aplikacji webowych
+Salary 
+6 000 – 10 000 zł
+brutto / mies. | umowa o pracę
 About the project:
 O projekcie
 W Almarise rozwijamy wiele aplikcji, w tym nasz nowy produkt: Apptime – nowoczesną aplikację webową do kompleksowego zarządzania czasem pracy, zespołami i projektami. Apptime integruje się z Jira i wspiera zespoły IT oraz usługowe w planowaniu, rozliczaniu i analizie pracy.

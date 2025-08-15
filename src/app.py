@@ -14,7 +14,8 @@ def append_to_txt(data):
     """Append one offer’s data to the text file."""
     with open(TXT_PATH, "a", encoding="utf-8") as f:
         f.write(f"URL: {data['url']}\n")
-        f.write(f"Name of a company {data['name']}\n")
+        f.write(f"Name of a company \n{data['name']}\n")
+        f.write(f"Salary \n{data['salary']}\n")
         f.write(f"About the project:\n{data['about_project']}\n\n")
         f.write(f"Your responsibilities:\n{data['responsibilities']}\n\n")
         f.write(f"Our requirements:\n{data['requirements']}\n\n")
@@ -114,12 +115,14 @@ def extract_offer_sections():
     data = {
         "url": driver.current_url,
         "name": driver.find_element(By.CLASS_NAME, 'oheatec').text,
+        "salary": driver.find_element(By.CLASS_NAME, 's120d0xa').text,
         "about_project": "(not found)",
         "responsibilities": "(not found)",
         "requirements": "(not found)",
         "technologies": "(not found)",
     }
-
+# vuj7wmi
+# s120d0xa
 
     for section in sections:
         heading = ""
