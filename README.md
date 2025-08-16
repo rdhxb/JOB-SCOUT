@@ -42,7 +42,7 @@ JOB-SCOUT/
 ```
 
 # How JOB‑SCOUT Works
-```mermaid
+```
 flowchart TD
     A[User runs: python src/app.py] --> B[CLI asks questions (cli.py + InquirerPy)]
     B --> C[Build search URL (answers.process_answers)]
