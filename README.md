@@ -44,13 +44,13 @@ JOB-SCOUT/
 # How JOB‑SCOUT Works
 ```mermaid
 flowchart TD
-    A[User runs <code>python src/app.py</code>] --> B[CLI asks questions<br/>(cli.py + InquirerPy)]
-    B --> C[Build search URL<br/>(answers.process_answers)]
+    A[User runs: python src/app.py] --> B[CLI asks questions (cli.py + InquirerPy)]
+    B --> C[Build search URL (answers.process_answers)]
     C --> D[Launch Chromium via Selenium]
-    D --> E[Open listing page<br/>+ dismiss cookie overlays]
-    E --> F[collect_offer_links()<br/>de-duplicate URLs]
+    D --> E[Open listing page and dismiss cookie overlays]
+    E --> F[collect_offer_links() → de-duplicate URLs]
     F --> G{For each offer URL}
-    G -->|Open new tab| H[extract_offer_sections():<br/>title, company, salary,<br/>about, responsibilities,<br/>requirements, technologies]
+    G -->|Open new tab| H[extract_offer_sections():\nrole, company, salary,\nabout, responsibilities,\nrequirements, technologies]
     H --> I[append_to_txt()]
     H --> J[append_to_gsheet()]
     I --> K[Close tab and return to listing]
