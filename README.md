@@ -40,7 +40,25 @@ JOB-SCOUT/
 ├─ .gitignore
 └─ service_account.json
 ```
+# How JOB‑SCOUT Works
 
+```mermaid
+flowchart TD
+    A[User runs <code>python src/app.py</code>] --> B[CLI asks questions<br/>(cli.py + InquirerPy)]
+    B --> C[Build search URL<br/>(answers.process_answers)]
+    C --> D[Launch Chromium via Selenium]
+    D --> E[Open listing page<br/>+ dismiss cookie overlays]
+    E --> F[collect_offer_links()<br/>de-duplicate URLs]
+    F --> G{For each offer URL}
+    G -->|Open new tab| H[extract_offer_sections():<br/>title, company, salary,<br/>about, responsibilities,<br/>requirements, technologies]
+    H --> I[append_to_txt()]
+    H --> J[append_to_gsheet()]
+    I --> K[Close tab and return to listing]
+    J --> K
+    K --> L{More offers?}
+    L -->|Yes| G
+    L -->|No| M[Print summary & close browser]
+```
 
 ## 🚀 Quick Start
 
