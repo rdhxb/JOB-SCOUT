@@ -11,7 +11,7 @@ import csv
 app = typer.Typer()
 
 
-spec_it = []
+spec_it = ['']
 spec_fiz_worker = []
 
 spec_sellers = []
@@ -40,7 +40,8 @@ show_salary = ['Tak','Nie']
 workload = ['Czesc etatu','dodatkowa/tymczasowa','pelny etat']
 remote_type = ['Stacjonarna','hybrydowa','zdalna','mobilna']
 publish_time = ['24h','3 dni','7 dni', '14 dni','30 dni']
-
+key_word = ''
+job_lvl = ['Praktykant/Stazysta','Asystent','(Junior)','(Mid/Regular)','(Senior)','Ekspert','Kierownik','Menager']
 
 
 @app.command()
@@ -75,6 +76,13 @@ def ask():
             choices = spec_engineer
         ).execute()
 
+    key_word = inquirer.text(
+        message="Podaj słowo kluczowe z polskii znakami (np. 'Python', 'Security', 'Junior'):",
+        default=""
+    ).execute()
+
+
+    job_level = inquirer.fuzzy("Poziom stanowiska:", choices=job_lvl).execute()
     loc = inquirer.fuzzy("Lokalizacja:", choices=location).execute()
     dist = inquirer.select("Maksymalna odległość (km):", choices=distance).execute()
     remote = inquirer.select("Tryb pracy:", choices=remote_type).execute()
@@ -86,6 +94,8 @@ def ask():
     answers = {
         "job_type": jt,
         "specialization": spec,
+        "key_word" : key_word,
+        "job_level": job_level,
         "location": loc,
         "distance_km": dist,
         "remote_type": remote,

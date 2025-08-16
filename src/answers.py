@@ -50,10 +50,31 @@ SPEC_OVERRIDES = {
     "IT admin": "it-admin",
     "AL/ML": "al-ml"
 }
+JOB_LEVEL = {
+    "Praktykant/Stazysta" : "1",
+    "Asystent": "3",
+    "(Junior)": "17",
+    "(Mid/Regular)": "4",
+    "(Senior)": "18",
+    "Ekspert": "19",
+    "Kierownik": "5",
+    "Menager": "20"
+}
 
 def process_answers(answers):
     base = BASE_IT
     path = ''
+
+    key_word = answers.get('key_word')
+    if key_word:
+        parts = key_word.strip().split()
+        first = parts[0] if parts else ""
+        last = parts[-1] if len(parts) > 1 else ""
+
+        if last == '':
+            path += f'/{first};kw'
+        else:
+            path += f'/{first}%20{last};kw'
 
     loc = answers.get("location")
     if loc:
@@ -73,6 +94,10 @@ def process_answers(answers):
     if distance:
         path += f'?rd={distance}'
 
+    job_level = answers.get('job_level')
+    if job_level in JOB_LEVEL:
+        path += f'&et={JOB_LEVEL[job_level]}'
+
     sallary = answers.get('show_salary_only')
     if sallary:
         if sallary == 'Tak':
@@ -80,7 +105,9 @@ def process_answers(answers):
         else:
             pass
 
-# mmoze lower() bedzie potrezebnt
+
+
+    # mmoze lower() bedzie potrezebnt
     contract_type = answers.get('contract_type')
     if contract_type:
         path += f'&tc={CONTRACT_TC[contract_type]}'
@@ -95,6 +122,9 @@ def process_answers(answers):
             path += f'&its={SPEC_OVERRIDES[spec]}'
         else:
             path += f'&its={spec.lower()}'
+
+
+
 
 
 
