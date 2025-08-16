@@ -40,8 +40,8 @@ JOB-SCOUT/
 ├─ .gitignore
 └─ service_account.json
 ```
-# How JOB‑SCOUT Works
 
+# How JOB‑SCOUT Works
 ```mermaid
 flowchart TD
     A[User runs <code>python src/app.py</code>] --> B[CLI asks questions<br/>(cli.py + InquirerPy)]
