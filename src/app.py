@@ -1,6 +1,4 @@
 from cli import ask
-import gspread
-from oauth2client.service_account import ServiceAccountCredentials
 import re
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
@@ -8,106 +6,9 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException, ElementClickInterceptedException, StaleElementReferenceException
+from save_to_gsheet_txt import append_to_gsheet, append_to_txt
 
 url = ask()
-
-# ---------- Google Sheets setup ----------
-SCOPE = ["https://spreadsheets.google.com/feeds",
-         "https://www.googleapis.com/auth/spreadsheets",
-         "https://www.googleapis.com/auth/drive.file",
-         "https://www.googleapis.com/auth/drive"]
-
-CREDS = ServiceAccountCredentials.from_json_keyfile_name("service_account.json", SCOPE)
-client = gspread.authorize(CREDS)
-
-# Open sheet by name
-sheet = client.open("JobScout").sheet1
-# Ensure headers exist (and add Raw URL for dedupe)
-HEADERS = ["Status", "Job Name", "Company Name", "Salary",
-           "About Project", "Responsibilities", "Requirements",
-           "Technologies", "Link"]
-
-try:
-    existing_headers = sheet.row_values(1)
-    if existing_headers != HEADERS:
-        # Overwrite headers if empty or different
-        sheet.clear()
-        sheet.append_row(HEADERS, value_input_option="USER_ENTERED")
-except Exception:
-    # If anything odd, ensure headers exist
-    sheet.clear()
-    sheet.append_row(HEADERS, value_input_option="USER_ENTERED")
-
-# turn off wrapping (clip) for all data columns
-sheet.format('A:I', {'wrapStrategy': 'CLIP'})
-# optional: set a filter and freeze header for nicer UX
-try:
-    sheet.freeze(rows=1)
-    sheet.set_basic_filter()  # applies to used range
-except Exception:
-    pass
-
-def set_row_height(sheet, start_row, end_row, height=200):
-    sheet.spreadsheet.batch_update({
-        "requests": [{
-            "updateDimensionProperties": {
-                "range": {
-                    "sheetId": sheet._properties['sheetId'],
-                    "dimension": "ROWS",
-                    "startIndex": start_row - 1,  # 0-based index
-                    "endIndex": end_row           # end is exclusive
-                },
-                "properties": {
-                    "pixelSize": height
-                },
-                "fields": "pixelSize"
-            }
-        }]
-    })
-
-# Example: set row height for first 100 rows to 35 px
-set_row_height(sheet, 2, 101, 35)  # row 1 is header, so start from row 2
-
-
-
-
-def append_to_gsheet(data):
-    sheet.append_row([
-        "",  # Status - for you to fill later
-        data["name"],
-        data["company_name"],
-        data["salary"],
-        data["about_project"],
-        data["responsibilities"],
-        data["requirements"],
-        data["technologies"],
-        f'=HYPERLINK("{data["url"]}"; "Open Offer")'
-    ], value_input_option="USER_ENTERED")
-
-
-
-
-TXT_PATH = "data/offers/offers.txt"
-
-def append_to_txt(data):
-
-    with open(TXT_PATH, "r", encoding="utf-8") as f:
-         if data["url"] in f.read():
-            print(f"Skipping (already in file): {data['url']}")
-            return
-
-    """Append one offer’s data to the text file."""
-    with open(TXT_PATH, "a", encoding="utf-8") as f:
-        f.write(f"URL: {data['url']}\n")
-        f.write(f"Job Name \n{data['name']}\n")
-        f.write(f"Company name \n{data['company_name']}\n")
-        f.write(f"Salary \n{data['salary']}\n")
-        f.write(f"About the project:\n{data['about_project']}\n\n")
-        f.write(f"Your responsibilities:\n{data['responsibilities']}\n\n")
-        f.write(f"Our requirements:\n{data['requirements']}\n\n")
-        f.write(f"Technologies we use:\n{data['technologies']}\n")
-        f.write("-" * 40 + "\n\n\n")
-
 # --- OPTIONS ---
 chrome_options = Options()
 chrome_options.add_experimental_option("detach", True)
@@ -150,20 +51,23 @@ def dismiss_overlays():
 
 
 def collect_offer_links():
-    wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "a.tiles_cnb3rfy.core_n194fgoq")))
-    anchors = driver.find_elements(By.CSS_SELECTOR, "a.tiles_cnb3rfy.core_n194fgoq")
-    hrefs = []
-    for a in anchors:
-        href = a.get_attribute("href")
-        if href:
-            hrefs.append(href)
-    seen, uniq = set(), []
-    for h in hrefs:
-        if h not in seen:
-            seen.add(h)
-            uniq.append(h)
-    print(f"Collected {len(uniq)} unique offer links")
-    return uniq
+    try:
+        wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "a.tiles_cnb3rfy.core_n194fgoq")))
+        anchors = driver.find_elements(By.CSS_SELECTOR, "a.tiles_cnb3rfy.core_n194fgoq")
+        hrefs = []
+        for a in anchors:
+            href = a.get_attribute("href")
+            if href:
+                hrefs.append(href)
+        seen, uniq = set(), []
+        for h in hrefs:
+            if h not in seen:
+                seen.add(h)
+                uniq.append(h)
+        print(f"Collected {len(uniq)} unique offer links")
+        return uniq
+    except:
+        return 0
 
 def click_first_offer(offers):
     if not offers:
@@ -253,19 +157,11 @@ def extract_offer_sections():
                 break
     return data
 
-# def clean_company_name(text):
-#     if not text:
-#         return text
-#     # remove leading "O firmie" / "About the company" + optional punctuation/spaces
-#     return re.sub(r'\b(o\s*firmie|about\s+the\s+company)\b\s*[:\-–—]*\s*', '',
-#               text, flags=re.IGNORECASE).strip()
+
 
 
 
 if __name__ == '__main__':
-    # clear file before starting
-    # open(TXT_PATH, "w", encoding="utf-8").close()
-
     driver.get(url)
     dismiss_overlays()   
     
@@ -278,30 +174,32 @@ if __name__ == '__main__':
 
     listing_handle = driver.current_window_handle
 
-
-    for i, href in enumerate(links, start=1):
-        try:
-            driver.switch_to.new_window("tab")
-            driver.get(href)
-            dismiss_overlays()
-
-            row = extract_offer_sections()
-            append_to_txt(row)
-            append_to_gsheet(row)
-
-            print(f"[{i}/{len(links)}] Saved to text: {row['url']}")
-        except Exception as e:
-            print(f"[{i}/{len(links)}] Failed for {href}: {e}")
-        finally:
+    try:
+        for i, href in enumerate(links, start=1):
             try:
-                driver.close()
-                driver.switch_to.window(listing_handle)
-            except Exception:
-                try:
-                    driver.switch_to.window(driver.window_handles[0])
-                except Exception:
-                    pass
+                driver.switch_to.new_window("tab")
+                driver.get(href)
+                dismiss_overlays()
 
-    print(f"Done. All offers saved at: {TXT_PATH}")
+                row = extract_offer_sections()
+                append_to_txt(row)
+                append_to_gsheet(row)
+
+                print(f"[{i}/{len(links)}] Saved to text: {row['url']}")
+            except Exception as e:
+                print(f"[{i}/{len(links)}] Failed for {href}: {e}")
+            finally:
+                try:
+                    driver.close()
+                    driver.switch_to.window(listing_handle)
+                except Exception:
+                    try:
+                        driver.switch_to.window(driver.window_handles[0])
+                    except Exception:
+                        pass
+    except:
+        pass
+
+    print(f"Done. All offers saved at:")
 
     driver.close()
